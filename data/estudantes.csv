@@ -1,0 +1,1501 @@
+nome,cidade,idade,disciplina,nota,horas_estudo,engajamento
+Catarina Santos,Fortaleza,22,Matemática,8.1,10,68
+Melina Novais,Recife,23,Python,7.3,7,71
+Maria Clara Costa,Fortaleza,31,Marketing,5.5,6,90
+Srta. Bella Silveira,Fortaleza,18,IA,7.3,9,64
+Gael Brito,Recife,23,Python,6.6,2,67
+Dra. Liz Vasconcelos,Teresina,32,Python,6.0,8,88
+Bruno Leão,Teresina,20,Matemática,5.8,6,87
+Rebeca das Neves,São Luís,31,Matemática,6.8,4,96
+Theodoro Rios,Salvador,34,IA,5.8,7,79
+Otto Souza,Recife,23,Marketing,8.2,7,88
+Lucas Gabriel Santos,Recife,26,IA,6.0,9,74
+Ana Vitória Casa Grande,São Luís,22,Python,5.8,6,93
+Rebeca Viana,Fortaleza,29,Python,5.3,5,96
+Allana Rezende,Teresina,31,IA,9.7,2,96
+Gustavo Pimenta,São Luís,34,Matemática,8.7,3,84
+Juan Cavalcante,Fortaleza,31,IA,8.8,1,92
+Srta. Bárbara Ramos,Salvador,35,Python,8.4,9,93
+Ravy Pereira,Salvador,20,Matemática,9.4,1,59
+Juliana Souza,Teresina,27,Banco de Dados,5.3,6,56
+Kaique Siqueira,São Luís,32,Marketing,8.6,1,86
+Arthur Correia,Teresina,28,Marketing,6.7,1,63
+Nicolas Lima,Salvador,29,Matemática,7.2,5,82
+Gustavo Henrique Costa,Fortaleza,32,Python,6.5,2,72
+Ana Beatriz Fonseca,Fortaleza,34,Marketing,6.8,7,50
+Catarina Vasconcelos,Teresina,27,IA,5.8,8,83
+Gael Henrique Freitas,Teresina,29,Banco de Dados,7.3,8,51
+Sr. João Felipe Ramos,Recife,22,Banco de Dados,8.8,1,52
+Fernanda Monteiro,Salvador,20,IA,7.4,9,76
+Vitor Hugo Freitas,Fortaleza,26,Banco de Dados,5.1,2,61
+Luísa Aragão,Fortaleza,24,Marketing,9.6,10,58
+Pedro Miguel Novais,Fortaleza,20,IA,5.4,5,73
+Dr. Francisco Carvalho,São Luís,25,Python,7.3,9,66
+Manuella Ribeiro,Recife,30,IA,8.8,10,76
+Aurora Pereira,Teresina,29,Matemática,6.2,6,68
+Davi Fonseca,Recife,33,Marketing,8.9,6,91
+Otto Leão,Salvador,30,Marketing,9.7,5,87
+Maria Liz da Cruz,Salvador,23,Marketing,8.8,2,59
+Mariane da Rosa,Salvador,18,Banco de Dados,5.8,3,83
+Vinícius Siqueira,Recife,18,IA,9.8,9,98
+Esther da Rosa,Teresina,19,Python,5.1,6,59
+Antonella Macedo,São Luís,28,Matemática,9.6,7,50
+Sr. José Duarte,São Luís,29,Banco de Dados,7.8,8,79
+Caleb Azevedo,Salvador,18,Banco de Dados,9.6,4,61
+Raul da Costa,São Luís,22,Banco de Dados,9.3,10,57
+Ana Júlia Farias,Fortaleza,35,Matemática,7.4,7,71
+Dr. Gustavo Henrique Alves,Fortaleza,32,Matemática,10.0,9,98
+Ana Beatriz Vieira,Salvador,25,Matemática,7.3,8,97
+Mariana da Rocha,Recife,24,Matemática,9.6,7,57
+Dr. Pedro Henrique Barros,Salvador,21,Banco de Dados,7.2,1,99
+Manuella Aparecida,Recife,22,IA,7.5,6,62
+Gustavo Viana,Teresina,27,IA,6.6,2,72
+João Felipe Melo,Fortaleza,30,Banco de Dados,5.6,1,66
+Samuel Sá,Fortaleza,34,Banco de Dados,5.4,5,96
+Isis Duarte,Recife,34,Python,9.4,10,56
+Mariana Sá,Recife,32,Banco de Dados,6.1,6,94
+Camila Jesus,Salvador,28,IA,6.6,10,81
+Ana Vitória Casa Grande,Fortaleza,19,Marketing,8.9,5,95
+Renan Brito,Salvador,33,IA,6.5,10,54
+Luiz Felipe Azevedo,São Luís,24,Marketing,6.6,3,97
+Gustavo Fernandes,Recife,28,Banco de Dados,9.2,7,65
+Isaque da Cruz,Fortaleza,33,Python,6.0,6,98
+Srta. Maria Clara Marques,Teresina,34,Matemática,9.9,1,97
+Ísis Rios,Teresina,23,Banco de Dados,9.3,4,69
+Bruno Almeida,Recife,26,Python,7.4,4,67
+Manuela Rezende,Recife,20,Python,5.7,6,62
+Sra. Nicole da Rosa,Fortaleza,23,Marketing,5.3,4,82
+Maria Laura Araújo,Recife,27,Python,5.4,1,64
+Eloah Souza,São Luís,34,Python,9.5,2,69
+Sra. Juliana Câmara,Teresina,26,Banco de Dados,5.5,7,92
+Liam Porto,Teresina,33,Matemática,8.0,5,69
+Arthur Melo,São Luís,20,IA,9.7,3,59
+Yasmin Garcia,Recife,29,Matemática,6.8,7,76
+Antonella Sales,Teresina,19,Matemática,7.3,9,78
+Matteo Nunes,Teresina,31,Python,6.7,6,67
+Sr. Renan Novais,São Luís,20,Python,6.0,8,76
+Caio Abreu,Salvador,33,Matemática,5.6,10,87
+Valentina Siqueira,Recife,29,Matemática,7.6,5,73
+Marcela Dias,São Luís,35,Python,9.5,5,91
+Arthur da Mota,Salvador,32,IA,6.8,10,78
+Vitor Hugo Silveira,Teresina,27,IA,7.9,4,96
+Dra. Brenda Guerra,Fortaleza,22,IA,5.3,6,94
+Alícia Caldeira,Recife,26,IA,5.6,10,84
+Erick Azevedo,São Luís,31,Python,5.3,3,54
+Nicolas Rezende,Recife,24,IA,7.2,7,73
+Fernando Mendonça,Recife,32,Matemática,5.3,7,88
+Dr. Renan Almeida,Fortaleza,28,Matemática,7.0,10,79
+Lavínia Fonseca,Teresina,28,Marketing,8.9,1,93
+Dra. Pietra Macedo,Salvador,34,Python,6.6,10,88
+Davi Luiz Moraes,Fortaleza,23,Marketing,6.8,6,90
+Laís Ramos,São Luís,31,IA,7.3,3,52
+João Gabriel Aragão,Recife,35,Marketing,8.3,4,68
+Henrique Ribeiro,Teresina,21,IA,5.5,7,96
+Antony Pinto,Fortaleza,28,Matemática,9.4,8,100
+Alexandre Pastor,Salvador,28,Marketing,7.7,2,53
+Henrique da Conceição,Fortaleza,24,Banco de Dados,7.7,7,89
+Luísa Machado,São Luís,19,Python,5.8,10,57
+Lunna Porto,Recife,22,IA,8.0,8,66
+Dr. Gabriel da Luz,Fortaleza,23,Marketing,9.6,10,90
+Yuri Melo,Fortaleza,29,Banco de Dados,7.9,6,61
+Lucas Azevedo,Teresina,32,Python,6.4,6,68
+Arthur Miguel Ribeiro,Fortaleza,28,IA,9.8,10,89
+Luara Abreu,Fortaleza,25,IA,9.8,8,57
+Maria Helena Dias,Fortaleza,28,Marketing,5.8,6,56
+Dr. Vinicius Dias,São Luís,22,Marketing,6.9,9,85
+Maria Clara Silveira,Recife,29,Python,9.5,7,99
+Erick Nogueira,Salvador,20,Banco de Dados,6.7,1,88
+Hadassa da Conceição,São Luís,32,Banco de Dados,6.3,1,88
+Sr. Kevin Vargas,Teresina,31,Matemática,8.2,2,59
+Dom Silveira,Fortaleza,22,IA,9.8,6,53
+Luiza Peixoto,Fortaleza,27,Matemática,8.4,7,65
+Carolina Pires,Recife,31,Matemática,6.3,10,89
+Vinicius Novais,Fortaleza,20,Banco de Dados,7.6,6,88
+Isis Nascimento,Recife,25,Python,7.6,8,56
+Alice Sousa,Salvador,18,Marketing,5.8,2,73
+Milena Sales,Salvador,18,Matemática,8.0,4,56
+Ana Vitória Dias,São Luís,33,Python,5.5,5,69
+Emanuella Rodrigues,Fortaleza,31,IA,7.8,10,97
+Srta. Luna Vasconcelos,Salvador,25,IA,7.1,6,77
+Mathias Novaes,Recife,21,IA,6.8,4,73
+Felipe Correia,São Luís,18,IA,9.4,9,86
+Bryan Fonseca,Teresina,19,IA,9.3,4,92
+Maysa Mendes,São Luís,25,Banco de Dados,6.7,5,71
+Brenda Casa Grande,Salvador,26,IA,7.5,7,51
+Caio Novais,Recife,30,Marketing,9.4,1,50
+Cecília Costela,São Luís,20,Banco de Dados,7.2,6,61
+Laura Melo,Teresina,21,Python,8.6,1,63
+Ravi Lucca Rezende,São Luís,29,IA,5.6,9,65
+Sr. Rodrigo Macedo,Salvador,23,Python,6.7,1,94
+Laís Moreira,Recife,20,IA,9.5,10,85
+Maria Julia Vargas,Fortaleza,34,IA,8.6,1,93
+Theo Andrade,Salvador,23,Python,8.2,8,84
+Dra. Isabela Mendes,Salvador,22,Matemática,7.3,3,60
+Otávio da Mota,Teresina,20,IA,7.0,4,86
+Srta. Evelyn Azevedo,Teresina,26,Marketing,7.3,3,86
+Heitor Freitas,São Luís,18,Python,9.2,8,72
+João Pedro Leão,Salvador,31,IA,5.7,6,55
+Yan Sampaio,São Luís,30,Marketing,6.4,9,94
+Jade Martins,Recife,18,Banco de Dados,8.7,6,76
+Levi Cardoso,Recife,25,Marketing,8.1,8,58
+Gustavo Gonçalves,Recife,35,IA,6.1,10,97
+Bruno Macedo,Teresina,20,Matemática,6.9,10,75
+Stephany Aparecida,Teresina,31,Python,8.2,3,74
+Cecilia Silva,Fortaleza,27,Matemática,7.6,7,95
+Sra. Ana Clara Correia,Teresina,20,Marketing,7.7,8,63
+Otávio Leão,São Luís,20,Marketing,6.7,4,93
+Lavínia das Neves,Salvador,18,Matemática,6.4,5,88
+Ana Julia Freitas,Fortaleza,34,Marketing,9.7,9,85
+Yago Barros,Recife,28,Python,7.5,4,66
+Maria Laura Ramos,Teresina,35,Banco de Dados,9.7,4,80
+Arthur Miguel Moreira,Teresina,25,Python,5.1,9,69
+Luiz Otávio Andrade,Salvador,28,Python,6.2,8,64
+Davi Lucas Pinto,Fortaleza,33,Matemática,5.4,8,65
+Rebeca Pacheco,Teresina,26,Marketing,8.6,10,93
+Valentim Silveira,Teresina,27,IA,6.4,1,56
+Rebeca Caldeira,Recife,35,IA,5.0,4,99
+Gustavo Costa,Salvador,29,Python,5.5,4,85
+Valentim Mendonça,Fortaleza,29,Marketing,10.0,4,61
+Sra. Bella Sampaio,Teresina,20,Banco de Dados,6.8,3,77
+Amanda da Mata,Salvador,33,Marketing,6.6,9,95
+João Felipe Mendonça,São Luís,30,IA,6.7,2,59
+Jade Camargo,Recife,29,Banco de Dados,9.7,5,71
+Dr. Erick Vasconcelos,Recife,29,Python,5.1,10,54
+Joana Guerra,Recife,27,Marketing,9.3,9,64
+João Guilherme Vargas,Teresina,24,Matemática,9.3,7,71
+Dr. José Andrade,Salvador,20,Banco de Dados,9.9,5,75
+Guilherme Nunes,Teresina,31,Python,9.5,2,68
+Léo Rezende,Recife,31,Marketing,6.6,1,79
+Manuela Dias,Fortaleza,29,Matemática,9.2,9,70
+Lucas Castro,São Luís,26,Marketing,5.3,1,78
+Ana Cecília Farias,São Luís,24,Python,8.4,7,94
+Maria Isis Almeida,Salvador,35,Banco de Dados,5.9,3,55
+Caroline da Mata,São Luís,29,Python,8.6,4,59
+Agatha Souza,São Luís,26,IA,6.5,1,94
+Matheus Fogaça,São Luís,27,Matemática,7.0,1,55
+Yuri Abreu,Recife,33,Banco de Dados,7.5,7,67
+Evelyn Pires,Fortaleza,22,Banco de Dados,5.5,10,64
+Clarice Souza,Recife,29,Banco de Dados,8.5,4,89
+Emilly Araújo,Fortaleza,27,IA,6.0,2,66
+Daniela Sá,Recife,22,IA,7.1,5,61
+Ayla Casa Grande,São Luís,35,IA,8.8,5,81
+Eloá Azevedo,Fortaleza,20,Marketing,9.2,9,82
+Ana Carolina Albuquerque,Recife,24,IA,7.4,9,81
+Ana Lívia Dias,Fortaleza,21,Marketing,5.8,8,68
+Srta. Raquel Monteiro,Salvador,27,Marketing,6.1,8,72
+Allana Pastor,Fortaleza,28,Matemática,8.0,8,69
+Sra. Raquel Sá,Fortaleza,34,Python,7.1,1,78
+Brenda Lima,Fortaleza,20,IA,5.7,1,84
+Léo Costela,Salvador,29,Banco de Dados,8.1,10,76
+Yuri Farias,Teresina,18,IA,6.7,1,63
+Ian da Cunha,Fortaleza,26,Python,7.3,2,94
+Matteo da Conceição,Fortaleza,29,Python,6.1,8,73
+Ísis Machado,Fortaleza,29,IA,6.2,6,100
+Zoe Lima,Teresina,31,IA,8.0,2,74
+Levi Oliveira,Recife,29,Python,7.4,9,84
+Maria Vitória Pimenta,São Luís,35,Marketing,9.9,3,100
+Mariah da Mata,Recife,20,IA,6.8,5,75
+Hellena Moreira,Recife,30,IA,7.8,8,78
+Francisco Monteiro,Salvador,34,Banco de Dados,6.1,8,75
+Dr. Léo Ribeiro,Fortaleza,29,Marketing,8.8,1,76
+Ian Jesus,Recife,24,Python,7.9,8,62
+Mariah Souza,Recife,25,Matemática,9.2,5,53
+Lívia Castro,Recife,25,IA,7.6,1,71
+Rafael Pires,Recife,22,Matemática,7.1,1,72
+Ísis Moraes,Salvador,32,Banco de Dados,8.7,6,90
+Emanuel Gomes,Fortaleza,24,IA,7.0,8,83
+Alice Peixoto,Fortaleza,23,Matemática,9.0,5,52
+Sara Sampaio,Recife,19,IA,5.8,1,85
+Francisco Silva,Teresina,24,Matemática,5.7,1,57
+Stephany Rezende,Teresina,25,Python,9.2,1,73
+Oliver Nascimento,Recife,22,Marketing,6.1,5,99
+Davi Miguel Sales,Recife,24,Banco de Dados,5.7,2,68
+João Lima,São Luís,24,Banco de Dados,5.5,5,91
+Murilo Rezende,Fortaleza,20,IA,8.5,2,72
+Sra. Maria Laura Cavalcanti,Fortaleza,31,Banco de Dados,9.4,1,59
+Raquel Campos,Salvador,34,Python,10.0,6,85
+Pietra Pacheco,Fortaleza,35,IA,6.1,10,84
+Miguel Nunes,Fortaleza,28,Marketing,6.7,9,71
+Eduarda da Costa,Fortaleza,23,Banco de Dados,7.8,1,57
+Dra. Sabrina Alves,Salvador,24,Matemática,9.4,1,79
+Sr. Vinicius Novais,Recife,30,Python,7.3,6,63
+Diego Barbosa,Recife,33,IA,7.6,1,58
+Bernardo Freitas,São Luís,21,Python,7.2,9,95
+Nicolas Rodrigues,Teresina,34,Python,6.0,9,96
+Miguel Cavalcanti,São Luís,35,Banco de Dados,9.1,3,58
+Lucas Camargo,Recife,33,Python,9.9,5,90
+Luiz Otávio Câmara,Fortaleza,35,IA,7.4,6,74
+Josué Sá,São Luís,31,Matemática,8.3,7,62
+Bryan Cassiano,Recife,25,Python,8.1,10,78
+Théo Moura,Recife,23,Python,8.6,5,96
+Dr. Matheus Costela,Salvador,28,Python,6.5,6,76
+Dr. Gael da Conceição,São Luís,19,Python,5.8,10,69
+Mathias Melo,Fortaleza,20,Matemática,7.4,9,57
+Yan Ribeiro,Recife,28,Python,6.3,2,51
+Dra. Maria Julia Guerra,Teresina,25,IA,7.9,1,96
+Henry Machado,Teresina,31,Banco de Dados,6.4,10,74
+Cecilia Aparecida,Fortaleza,18,Matemática,9.7,9,98
+Lorenzo Nunes,Salvador,20,Banco de Dados,5.9,5,62
+Sarah Lima,Fortaleza,20,IA,6.1,2,52
+Henry das Neves,Recife,29,Banco de Dados,8.7,9,54
+Sofia Marques,Salvador,26,Marketing,7.1,3,72
+Agatha Câmara,Teresina,35,Matemática,9.7,8,81
+Yago Guerra,São Luís,21,Banco de Dados,9.8,10,74
+Fernando da Conceição,Fortaleza,29,Matemática,6.0,10,63
+Brayan Macedo,Salvador,34,IA,8.6,9,73
+Joana Leão,Teresina,22,IA,6.6,6,81
+Ana Laura Rocha,Salvador,34,IA,9.5,8,97
+Anthony Gabriel Nascimento,Salvador,21,IA,5.1,2,81
+Heloísa Casa Grande,Fortaleza,33,Marketing,7.3,6,92
+Esther Mendes,Teresina,32,Banco de Dados,8.7,9,54
+Srta. Esther Duarte,São Luís,25,Marketing,7.9,5,62
+Benjamim Martins,Recife,31,Marketing,7.0,9,68
+Ana Carolina da Mota,Teresina,23,Python,8.8,9,81
+Kaique da Mata,Teresina,33,Python,9.1,5,72
+Kaique Câmara,Fortaleza,18,IA,6.8,6,86
+Murilo da Luz,Fortaleza,29,Marketing,9.8,8,76
+Maria Isis Santos,Teresina,19,Python,8.8,7,95
+Clarice Ribeiro,Fortaleza,23,IA,8.9,5,85
+Lucas Azevedo,Teresina,24,Marketing,7.2,10,51
+Theo Teixeira,Recife,22,Matemática,7.3,4,81
+Natália da Paz,Recife,22,IA,9.2,4,99
+Bernardo Albuquerque,Salvador,33,Matemática,6.6,10,57
+Heitor Caldeira,Teresina,26,Marketing,6.7,3,91
+Eduardo Marques,Recife,27,IA,9.3,8,50
+João Guilherme Almeida,Salvador,21,IA,5.1,4,60
+Isaque Monteiro,Fortaleza,30,Banco de Dados,9.2,10,96
+Maria Fernanda Fonseca,Teresina,30,Marketing,8.0,6,87
+Bianca Siqueira,São Luís,34,IA,8.7,6,52
+Ravi Lucca Moraes,Salvador,22,Matemática,7.1,6,79
+Maria Eduarda Costela,Recife,21,Marketing,7.8,9,62
+Ana Moura,Fortaleza,18,Banco de Dados,8.1,10,80
+Otto da Rocha,Salvador,30,Banco de Dados,7.9,9,98
+Gael Henrique Silva,Fortaleza,34,IA,6.2,3,70
+Maria Clara Cavalcanti,Salvador,25,Marketing,9.4,4,96
+Miguel Alves,Salvador,22,Banco de Dados,6.1,8,78
+Marcos Vinicius Rocha,Teresina,24,Banco de Dados,5.7,7,98
+Nina Pimenta,Recife,34,Banco de Dados,8.5,2,98
+Dr. Luiz Fernando Lima,Salvador,34,Python,6.7,3,64
+Maria Eduarda Moreira,Salvador,28,Matemática,8.8,10,85
+Ravi Lucca da Paz,São Luís,24,Python,7.3,6,64
+Sr. Leandro Peixoto,Fortaleza,19,Marketing,5.9,10,89
+Dr. José Miguel Casa Grande,Salvador,26,IA,7.3,7,77
+Marcelo Ribeiro,São Luís,24,Matemática,7.6,3,79
+Nathan Cirino,Salvador,32,Marketing,6.1,7,83
+Ian da Rocha,Salvador,35,Matemática,6.0,6,85
+Melissa Dias,Teresina,28,IA,6.3,9,58
+Dr. Mathias Vargas,Fortaleza,19,IA,6.9,2,76
+João Lucas Nascimento,Teresina,32,Banco de Dados,5.7,7,99
+Sra. Luiza Ramos,São Luís,32,Python,8.5,4,95
+Sra. Ana Sophia Farias,Fortaleza,28,IA,6.7,7,96
+Bianca Cavalcante,Recife,28,Marketing,7.6,7,88
+Luiz Miguel Guerra,Recife,33,Python,7.7,7,50
+Melina Cunha,Fortaleza,33,Matemática,5.9,10,87
+Emanuel Araújo,Salvador,22,Banco de Dados,5.9,4,100
+Arthur Gabriel Borges,Teresina,19,Matemática,7.9,9,70
+Renan Rios,Recife,25,Banco de Dados,7.7,1,99
+Nina Aragão,Recife,20,Matemática,8.9,3,69
+Nathan da Paz,Teresina,23,Banco de Dados,7.3,6,54
+Henry Gabriel Lima,São Luís,27,IA,8.7,5,84
+Lorena Monteiro,Fortaleza,27,Python,5.2,6,77
+Maria Alice da Paz,Recife,28,Marketing,5.1,4,53
+Hellena Monteiro,Salvador,21,Banco de Dados,9.0,2,67
+Melissa Novais,Salvador,20,IA,8.8,4,60
+Emanuel Pereira,São Luís,22,Matemática,7.1,10,60
+Maria Flor Azevedo,São Luís,23,Marketing,6.1,3,100
+Daniel Dias,Recife,19,Marketing,7.8,9,95
+Luiz Felipe Carvalho,São Luís,24,Python,6.3,3,79
+Sr. Luiz Felipe Souza,São Luís,23,Matemática,9.7,6,86
+Stephany Cavalcante,Salvador,32,Matemática,8.6,6,67
+Murilo Barros,Recife,32,Matemática,9.2,6,96
+Dr. Heitor Casa Grande,São Luís,27,Banco de Dados,6.5,1,51
+Milena Leão,Salvador,20,Marketing,7.5,6,85
+Thales Pinto,São Luís,35,Python,5.7,8,64
+Daniel Sousa,São Luís,25,Marketing,8.6,5,78
+Luiz Fernando Cavalcante,Teresina,24,Banco de Dados,7.2,5,97
+Luiz Miguel da Cunha,Recife,18,Matemática,6.8,7,88
+Arthur Gabriel da Rocha,Salvador,22,IA,8.9,4,51
+Sr. Fernando Peixoto,Teresina,19,Matemática,8.2,7,89
+Sr. Kevin Albuquerque,Fortaleza,23,Marketing,8.4,7,77
+Esther da Luz,Fortaleza,27,Marketing,6.3,5,53
+Srta. Eloah Sales,Teresina,20,Python,8.4,1,69
+Maya Caldeira,Fortaleza,18,IA,5.5,9,86
+Sra. Melissa Mendes,Recife,29,Banco de Dados,5.9,3,74
+Cauã Machado,Recife,19,Marketing,5.8,3,55
+Marina Marques,Teresina,34,Marketing,5.4,1,51
+Yan Nogueira,Recife,23,Banco de Dados,6.9,5,97
+Juliana Novais,São Luís,31,Python,8.2,4,65
+Srta. Mirella Guerra,Salvador,26,Banco de Dados,9.5,7,69
+Ana Lívia Freitas,Salvador,19,Marketing,5.4,6,98
+Pietra Gomes,Salvador,25,Matemática,7.8,10,96
+Arthur Gabriel Carvalho,São Luís,33,Banco de Dados,9.2,1,56
+Isaque Aragão,Teresina,33,Marketing,7.6,3,66
+Laura Almeida,Salvador,24,Banco de Dados,8.7,3,51
+Nina Brito,Teresina,19,Banco de Dados,6.3,9,98
+Manuela Guerra,Teresina,29,IA,5.3,1,99
+Leandro Ramos,Teresina,28,Python,7.3,1,83
+Helena Lima,Fortaleza,26,Marketing,8.4,3,52
+Sr. João Lucas Souza,Teresina,30,Banco de Dados,8.4,10,87
+Dr. Eduardo Souza,Teresina,23,Marketing,7.7,4,99
+Esther Almeida,Recife,29,Marketing,5.0,3,79
+Carolina Abreu,Salvador,25,Python,7.9,4,89
+Luana da Mata,Salvador,24,Marketing,5.4,8,73
+Lorena Nogueira,São Luís,29,Marketing,8.3,9,96
+Levi Pinto,Salvador,35,Matemática,9.6,3,91
+João Gabriel Pires,Teresina,35,Python,7.8,2,54
+Mirella Sousa,Salvador,27,Marketing,7.7,8,91
+Luigi Cardoso,Salvador,26,Matemática,5.0,5,50
+Henrique da Luz,Teresina,33,Marketing,5.0,9,50
+Kamilly Campos,Teresina,26,Banco de Dados,6.5,6,61
+Srta. Isabel Melo,São Luís,32,Banco de Dados,8.0,10,61
+Matheus Castro,Salvador,35,Matemática,7.8,1,67
+João Porto,Salvador,24,IA,7.1,10,63
+Antônio Farias,Recife,18,Marketing,9.5,4,64
+Isabel Cunha,Fortaleza,22,IA,8.8,10,73
+Brenda Cardoso,Teresina,25,Banco de Dados,5.3,3,97
+Matheus Freitas,Salvador,22,Marketing,8.0,9,51
+Sra. Luiza Souza,São Luís,22,Matemática,6.0,4,80
+Gael Henrique Vasconcelos,Recife,29,IA,6.9,6,82
+Maria Sophia Vieira,Fortaleza,23,Marketing,8.1,1,98
+Eloá Camargo,Fortaleza,28,Marketing,9.5,4,92
+Thomas Sousa,Teresina,23,Banco de Dados,5.4,3,64
+Isabel Jesus,Salvador,31,Marketing,5.8,9,80
+Dr. José Miguel Jesus,Recife,19,Python,8.7,4,98
+Brenda Moraes,Fortaleza,23,Python,8.4,3,62
+Alexandre Novaes,Salvador,25,Banco de Dados,7.2,2,100
+Isabel Nascimento,Recife,30,Matemática,9.0,5,91
+Ana Julia Machado,Salvador,22,Python,8.8,1,54
+Emanuel Costa,Salvador,30,Python,7.9,1,98
+Sr. Miguel Martins,São Luís,34,Matemática,9.4,4,85
+Fernanda Freitas,Recife,25,Matemática,6.3,5,84
+Eloah Guerra,São Luís,20,Banco de Dados,8.5,8,63
+Maria Eduarda Vieira,Recife,33,Marketing,8.3,3,82
+Carlos Eduardo Guerra,Salvador,21,Python,9.0,5,72
+Breno Sá,Salvador,28,Matemática,7.0,7,89
+Dr. Marcelo Peixoto,Teresina,22,IA,6.6,1,83
+Laís Cavalcante,Teresina,26,Matemática,9.4,10,74
+Kamilly Novaes,Salvador,18,IA,9.0,1,52
+Srta. Raquel Monteiro,Fortaleza,26,Marketing,5.7,10,70
+Luiz Gustavo Teixeira,Teresina,18,IA,5.3,10,78
+Dr. Raul Lima,Recife,35,Python,8.1,10,53
+Maria Vitória da Mota,Salvador,32,Banco de Dados,9.8,3,69
+Rodrigo Teixeira,Teresina,25,Matemática,9.8,5,69
+Ryan Jesus,Fortaleza,29,Python,6.8,10,68
+Luna Martins,Fortaleza,35,Marketing,5.4,6,96
+Anthony Gabriel da Cruz,Recife,19,Marketing,5.6,4,79
+Ana Beatriz Carvalho,Fortaleza,35,IA,9.2,5,59
+Isabelly Pimenta,Fortaleza,21,IA,7.0,7,72
+Maria Cecília Sá,Recife,18,IA,5.2,4,79
+Olivia Porto,Recife,22,Marketing,8.2,5,92
+Giovanna das Neves,Salvador,22,Marketing,7.0,9,86
+Leandro Rios,Salvador,32,IA,5.9,2,81
+Anthony Fogaça,São Luís,19,Banco de Dados,5.8,6,97
+Alexia Brito,Recife,33,Banco de Dados,8.4,9,82
+Kevin Lopes,Teresina,23,Matemática,7.9,6,95
+Rebeca da Luz,São Luís,23,Marketing,9.3,7,98
+Emanuel da Mata,São Luís,21,Marketing,10.0,1,86
+Pedro Casa Grande,Teresina,35,IA,9.2,2,83
+Giovanna da Mata,Fortaleza,35,Python,7.0,6,82
+Gustavo Henrique Santos,Teresina,31,Python,6.5,3,60
+Yuri Santos,Salvador,28,Python,5.1,9,83
+Léo Jesus,Teresina,27,IA,6.1,10,81
+Daniela Cavalcanti,São Luís,33,Matemática,9.6,3,63
+Fernanda Martins,São Luís,19,Matemática,5.9,1,88
+Maria Julia Oliveira,Salvador,27,Marketing,9.4,6,63
+Ana Júlia Azevedo,Fortaleza,27,Python,9.3,9,78
+Mathias Pimenta,São Luís,20,Marketing,6.4,8,61
+Dr. Luiz Gustavo Borges,Teresina,26,Matemática,5.5,2,98
+Ana Peixoto,Fortaleza,21,Python,9.8,7,58
+Sra. Raquel da Rosa,Fortaleza,27,Marketing,6.8,3,95
+Maria Eduarda Cavalcante,São Luís,32,Python,5.8,1,83
+Sra. Manuela Gonçalves,São Luís,35,Matemática,5.9,2,91
+Paulo Pastor,Fortaleza,32,IA,7.9,10,53
+Joana Novaes,Recife,33,Python,6.4,8,59
+Sra. Milena Brito,Salvador,27,Matemática,9.0,9,63
+Júlia Borges,Salvador,25,Marketing,8.7,2,68
+Sr. Renan Novais,Fortaleza,27,Banco de Dados,7.3,1,79
+Sophie Cassiano,São Luís,31,IA,7.1,1,87
+Henrique Moraes,Fortaleza,18,IA,5.5,7,50
+Theo Cavalcanti,Recife,32,Matemática,6.0,3,59
+Letícia Nunes,São Luís,34,IA,8.5,1,86
+Evelyn Lopes,Salvador,25,Matemática,8.8,5,97
+Yago Alves,São Luís,22,Matemática,8.5,10,99
+Sr. Samuel Moura,Fortaleza,23,IA,6.5,10,69
+Asafe Costela,Teresina,31,Matemática,6.5,10,54
+Davi Luiz Nascimento,Recife,18,Banco de Dados,5.9,1,54
+Mathias Costela,Salvador,28,Python,7.0,9,76
+Dr. Leandro da Cunha,Fortaleza,19,Banco de Dados,8.8,1,80
+Yasmin Novais,Teresina,26,Matemática,7.5,7,67
+Maya Pimenta,Salvador,21,IA,5.8,10,58
+Sra. Alice Viana,São Luís,31,Python,6.8,4,90
+Ana Julia Siqueira,Salvador,28,Marketing,8.2,2,72
+Emanuelly Teixeira,Salvador,35,Banco de Dados,7.6,4,78
+Dr. Arthur Gabriel Santos,Salvador,26,Marketing,9.2,9,87
+Ana Vitória Nascimento,Recife,20,IA,9.9,4,71
+Sr. Yuri Cavalcante,Recife,27,IA,5.6,4,98
+Carlos Eduardo Silva,Salvador,18,Marketing,8.6,3,60
+Beatriz Brito,Salvador,21,Banco de Dados,8.6,6,94
+Emanuel Fonseca,Recife,27,Marketing,7.4,7,64
+Rafaela Barbosa,São Luís,23,Marketing,8.5,6,67
+Maria Helena Moreira,Fortaleza,27,IA,6.1,7,57
+Léo Garcia,Fortaleza,27,Banco de Dados,5.8,1,87
+Sofia Novaes,São Luís,31,Matemática,6.5,10,61
+Vitória Abreu,Fortaleza,26,IA,6.5,8,66
+Sr. Gustavo Henrique Sampaio,Teresina,18,Banco de Dados,7.7,6,99
+Sra. Mirella Cavalcanti,Recife,33,IA,6.5,1,68
+Dr. Noah Santos,São Luís,24,Python,8.9,4,79
+Lucca Carvalho,São Luís,26,IA,6.5,2,92
+Valentim Machado,Teresina,28,Banco de Dados,8.3,4,54
+Ísis Novais,São Luís,22,Matemática,9.0,7,87
+Paulo Farias,Recife,29,Marketing,5.7,10,69
+Augusto da Cunha,São Luís,22,Marketing,8.4,1,92
+Maria Vitória Rios,Teresina,27,Banco de Dados,9.2,7,90
+Davi Luiz Leão,Teresina,30,IA,5.9,3,99
+Bernardo Almeida,São Luís,34,Marketing,8.8,3,64
+Nina Fernandes,Teresina,25,IA,8.6,5,50
+Lucas Peixoto,Fortaleza,19,Matemática,9.4,10,69
+Maria Helena Cassiano,São Luís,21,IA,9.1,7,97
+Ester Aparecida,Teresina,22,Python,5.2,9,53
+Nicolas Macedo,Fortaleza,23,Banco de Dados,9.8,8,79
+Joaquim Ramos,Teresina,21,Matemática,7.3,2,53
+Valentim Aparecida,São Luís,28,Marketing,9.9,4,83
+Pedro Lucas Andrade,Teresina,27,Marketing,7.4,10,62
+Liz Souza,Teresina,27,IA,9.8,9,88
+Hellena Silva,Teresina,26,Python,8.0,1,51
+Maria Julia Farias,Salvador,35,Python,8.4,3,52
+Cauê Silva,Recife,35,IA,9.6,4,77
+Maria Cecília Rios,Fortaleza,19,IA,6.8,1,93
+Cecilia Martins,Salvador,26,Marketing,9.9,6,61
+Pietra Pereira,São Luís,18,Matemática,6.1,8,98
+Lunna Oliveira,Salvador,31,Marketing,5.1,2,73
+João Guilherme Gomes,Teresina,33,Marketing,9.5,10,86
+Liam Campos,São Luís,24,Python,7.4,8,62
+Ísis Campos,São Luís,27,Banco de Dados,9.4,5,84
+Bárbara da Costa,Salvador,25,Marketing,6.8,10,93
+Luiz Gustavo Ferreira,Fortaleza,32,IA,8.7,3,75
+Bruna Rezende,Fortaleza,33,Banco de Dados,5.4,5,96
+Ana Liz Peixoto,Salvador,33,Banco de Dados,6.1,5,97
+Liam Fonseca,Teresina,21,IA,9.4,7,74
+Dr. Lucas Gabriel Duarte,Recife,20,Banco de Dados,5.6,7,72
+Sr. Breno Cirino,Recife,30,IA,6.4,4,91
+Julia Nascimento,Recife,35,Banco de Dados,9.0,4,68
+Laura Ferreira,Fortaleza,25,Python,7.8,1,70
+Theo Moreira,Teresina,25,Marketing,6.0,1,53
+Lucca Monteiro,Recife,34,Banco de Dados,8.2,7,94
+Lara Brito,Teresina,32,IA,6.2,7,56
+Bruno Silva,Teresina,33,IA,6.8,3,79
+Apollo Novaes,Recife,32,IA,9.9,4,98
+Heloísa Silva,Recife,21,Banco de Dados,7.6,10,60
+Melina Aparecida,São Luís,27,IA,10.0,9,92
+Maria Fernanda Garcia,Fortaleza,24,Banco de Dados,7.8,2,65
+Apollo Borges,São Luís,31,Banco de Dados,6.0,8,92
+Erick da Mota,Salvador,32,Marketing,5.8,9,61
+Luana Barros,Fortaleza,24,Matemática,9.2,3,68
+Vitor Gabriel Mendes,Teresina,19,Matemática,8.8,8,79
+Diego Pereira,São Luís,26,Marketing,8.4,3,73
+Ian Siqueira,Salvador,23,Banco de Dados,6.9,4,77
+Lara Gomes,Teresina,26,Python,9.8,8,97
+Davi Aparecida,Salvador,25,Marketing,8.4,7,86
+Aylla Barbosa,Recife,29,IA,10.0,3,59
+Dra. Daniela Moreira,Recife,18,Matemática,5.8,9,79
+Maria Laura Pires,Fortaleza,32,Banco de Dados,6.9,3,89
+Théo Aragão,Recife,27,Banco de Dados,8.7,8,62
+Vicente Cirino,Fortaleza,22,Marketing,6.7,6,58
+Mariana Fonseca,Recife,22,IA,8.9,7,53
+Pedro Lucas Moura,São Luís,18,Python,9.1,6,59
+Bento Pinto,Recife,21,IA,7.7,9,54
+Sr. Heitor Camargo,Teresina,18,Marketing,8.9,8,99
+Amanda Almeida,Salvador,22,Marketing,7.2,3,51
+Sr. Yan Dias,Teresina,29,IA,9.7,8,88
+Thomas Costa,Fortaleza,30,IA,7.9,9,96
+Maria Isis da Cunha,Teresina,30,Banco de Dados,8.0,1,87
+Sra. Caroline Nunes,Recife,31,IA,8.0,8,62
+Leonardo Albuquerque,Recife,24,Marketing,7.3,8,82
+Henrique Aparecida,Fortaleza,18,IA,6.4,1,95
+Sra. Carolina Machado,Salvador,35,Python,9.1,5,80
+Valentim Lima,Fortaleza,26,Banco de Dados,7.4,1,68
+Sara Viana,Salvador,20,IA,10.0,8,71
+Ana Julia Vieira,São Luís,33,Marketing,7.0,3,87
+Gabriel Vargas,São Luís,32,Marketing,5.6,10,51
+Milena Caldeira,Fortaleza,20,Banco de Dados,7.9,1,67
+Eduardo Souza,Teresina,28,IA,5.5,6,57
+Ísis Pinto,Fortaleza,20,IA,9.9,9,99
+Joana Fonseca,São Luís,18,Matemática,9.4,8,97
+Sarah Marques,Fortaleza,28,IA,5.5,8,68
+Carolina Borges,Salvador,30,Marketing,6.8,4,66
+Alícia da Luz,São Luís,23,Matemática,7.4,5,92
+Igor Garcia,Teresina,32,Marketing,6.0,2,92
+Agatha Albuquerque,Teresina,19,Matemática,8.9,5,65
+Nina da Mota,Fortaleza,25,Banco de Dados,8.8,3,52
+Benjamim Porto,Fortaleza,18,Matemática,7.8,3,75
+Yago Lima,Fortaleza,33,Python,8.1,1,73
+Lorenzo Teixeira,Recife,29,IA,8.9,3,53
+Srta. Olivia Macedo,Recife,33,Marketing,9.8,10,50
+Ana Julia Pimenta,Teresina,21,Matemática,6.6,4,78
+Isis Martins,Fortaleza,30,Banco de Dados,6.2,3,99
+Olivia Jesus,Salvador,35,IA,10.0,5,63
+Emanuel Leão,São Luís,19,Marketing,7.4,2,90
+Pedro Henrique Costa,Teresina,34,Matemática,9.9,5,96
+Maria Júlia Abreu,São Luís,20,Python,6.9,9,60
+Danilo Rodrigues,Salvador,33,Marketing,5.4,9,58
+Allana Monteiro,São Luís,34,Matemática,7.4,3,99
+Pedro Miguel Brito,Teresina,31,Banco de Dados,10.0,9,55
+Luan Aparecida,São Luís,20,Python,8.1,5,90
+Sr. Anthony Gabriel Freitas,Fortaleza,21,Python,7.3,7,77
+Vitor Gabriel Silva,Fortaleza,20,Matemática,7.7,4,76
+Otávio Fernandes,Salvador,35,Marketing,6.8,3,68
+Melissa Camargo,São Luís,18,Banco de Dados,6.3,4,75
+Enrico Leão,São Luís,30,Marketing,9.4,10,53
+Sr. Gustavo Henrique Castro,Teresina,32,IA,7.8,10,63
+Isabelly Gomes,Fortaleza,21,Marketing,7.2,3,73
+Allana Campos,Salvador,18,Marketing,9.2,5,57
+Luigi Oliveira,Salvador,26,Marketing,7.4,1,71
+Valentim Macedo,Fortaleza,22,Marketing,10.0,3,51
+Nicolas Pereira,Teresina,23,Python,6.7,6,57
+Oliver Cavalcante,Recife,27,Matemática,7.4,3,100
+Eduardo Monteiro,Salvador,29,Banco de Dados,7.6,1,100
+Breno Monteiro,São Luís,21,Python,6.3,4,73
+João Vitor Aparecida,Salvador,21,Matemática,8.8,3,93
+Sra. Melina Souza,Teresina,22,Marketing,5.3,5,50
+Dr. Benjamin Silva,São Luís,27,Matemática,6.2,7,90
+Nicolas Rodrigues,Recife,26,IA,9.3,3,55
+Cecilia Câmara,Teresina,22,Matemática,8.3,4,76
+Erick Câmara,Recife,31,Banco de Dados,7.1,2,56
+Alexia Leão,Fortaleza,31,Marketing,9.9,7,93
+Léo Carvalho,Recife,26,Matemática,6.8,5,51
+Marcelo Sousa,Recife,18,Python,9.6,8,66
+Sr. José Miguel Pacheco,Fortaleza,34,Banco de Dados,6.1,3,72
+Caleb das Neves,Recife,21,Matemática,5.7,9,99
+Stephany Marques,Salvador,25,Marketing,5.6,10,68
+Dra. Anna Liz Rocha,Fortaleza,19,IA,8.3,10,56
+Agatha Santos,Teresina,22,Banco de Dados,9.2,2,62
+Ana Júlia Silveira,Teresina,35,Banco de Dados,5.1,6,56
+Gabriel Machado,Recife,20,Banco de Dados,9.7,2,52
+Amanda Barros,Teresina,29,Marketing,6.3,7,66
+Laura Guerra,Teresina,18,Matemática,9.6,10,76
+Heloisa Albuquerque,Salvador,18,Matemática,7.9,5,68
+Camila Macedo,Fortaleza,18,IA,9.4,9,70
+Lunna Andrade,Recife,27,IA,7.9,1,60
+Laura Câmara,São Luís,25,Marketing,7.1,10,53
+Kaique Gonçalves,Teresina,22,Marketing,5.2,2,67
+Sabrina Vasconcelos,Fortaleza,20,Banco de Dados,6.3,9,55
+Dr. Pedro Rocha,Recife,31,Banco de Dados,8.5,7,68
+Sra. Camila Vargas,Recife,30,IA,6.2,4,82
+Heloísa Santos,Teresina,28,Matemática,9.2,8,55
+Melina Melo,Recife,28,Marketing,8.0,1,55
+Antônio Nogueira,Salvador,24,Marketing,7.0,1,50
+Laura Azevedo,Fortaleza,29,Matemática,8.5,7,58
+Bruna Fogaça,Teresina,23,Marketing,9.1,10,90
+Dr. Pietro Macedo,São Luís,33,IA,5.0,5,64
+Rhavi Castro,Fortaleza,27,IA,8.4,1,82
+Dr. Noah Azevedo,São Luís,30,Banco de Dados,8.0,5,55
+Maria Luiza Fernandes,Salvador,18,Banco de Dados,10.0,7,82
+Júlia Correia,Fortaleza,20,Banco de Dados,8.3,6,50
+Dom Martins,Salvador,28,Marketing,8.0,10,92
+Eduardo Montenegro,Teresina,29,Marketing,8.5,6,79
+Srta. Letícia Andrade,Recife,28,Marketing,6.5,2,85
+Hadassa Duarte,Salvador,26,Python,6.1,5,87
+Isabelly Vargas,São Luís,32,Marketing,6.7,5,75
+Allana Pastor,Teresina,30,Matemática,6.3,8,54
+Lavínia Nunes,Salvador,30,Marketing,7.6,9,72
+Júlia Marques,Fortaleza,21,IA,7.5,6,72
+Sr. Leonardo Montenegro,Recife,31,Banco de Dados,6.3,5,96
+Laís Almeida,Teresina,33,Marketing,5.6,1,89
+Isabelly Caldeira,Salvador,23,Matemática,5.7,1,68
+Dr. José Pedro da Rocha,Recife,24,Marketing,5.4,9,90
+Eloá da Luz,São Luís,23,IA,9.0,6,64
+Dra. Aylla Garcia,Fortaleza,27,Python,5.8,8,67
+Gabriel Sá,São Luís,21,Marketing,7.2,10,83
+Luana Sousa,Recife,20,Matemática,7.8,10,96
+Isadora Nascimento,Salvador,24,IA,8.8,5,86
+Dante Carvalho,Teresina,26,Matemática,7.2,3,82
+Isabelly Rios,Salvador,35,Banco de Dados,9.7,7,50
+Sr. Bruno Souza,São Luís,35,Matemática,9.2,7,74
+Alícia Mendes,São Luís,35,Matemática,5.6,8,75
+Srta. Bárbara Macedo,Recife,31,Banco de Dados,8.3,4,93
+Heloisa Mendonça,Recife,34,IA,9.5,7,76
+Alexandre Guerra,São Luís,35,Python,5.7,4,93
+Yan Aragão,Fortaleza,22,Marketing,6.7,6,63
+Vinícius Sales,São Luís,30,Banco de Dados,9.0,7,59
+Sophia da Rosa,Fortaleza,21,Matemática,8.9,10,96
+Ísis Araújo,Recife,28,Banco de Dados,9.4,9,75
+Sr. Fernando Pinto,São Luís,34,Matemática,6.0,9,70
+Antônio Camargo,Fortaleza,32,Python,9.1,7,64
+Isis Novais,Fortaleza,18,Banco de Dados,6.7,2,82
+Srta. Zoe da Luz,São Luís,24,Python,7.7,4,60
+Henrique Peixoto,Fortaleza,25,IA,7.1,1,74
+Gustavo Casa Grande,Fortaleza,22,Banco de Dados,6.4,4,80
+Bianca Câmara,São Luís,34,Marketing,6.9,1,79
+Eduarda Nascimento,Recife,19,IA,5.7,6,65
+Luiz Miguel Monteiro,São Luís,19,Marketing,8.5,1,63
+Matteo Sá,Recife,34,IA,6.6,10,57
+Srta. Clara Silva,Teresina,26,Matemática,6.8,9,54
+Gabrielly Pimenta,Salvador,18,Marketing,7.8,1,64
+Diego Farias,Fortaleza,24,Marketing,9.7,1,86
+Helena Leão,São Luís,34,IA,6.8,3,82
+Luigi Mendonça,São Luís,35,Marketing,5.2,8,53
+Isadora Sá,Teresina,30,Banco de Dados,7.5,7,67
+Alexandre Moura,Recife,23,IA,7.1,9,75
+Mariana das Neves,Salvador,21,IA,7.3,4,57
+Ryan Fernandes,Salvador,26,Marketing,8.1,5,58
+Ester Rios,São Luís,20,Marketing,7.7,1,53
+Breno Viana,Fortaleza,32,Matemática,8.5,4,99
+Liz Vieira,Teresina,30,Python,6.5,5,54
+Luiz Gustavo Silva,Recife,33,Marketing,5.7,4,63
+Srta. Pietra Moura,São Luís,28,IA,6.9,3,70
+Sr. Ravy Fonseca,Recife,23,Marketing,8.1,7,61
+Bento Carvalho,Recife,23,IA,9.8,2,99
+Dom Dias,Recife,29,Banco de Dados,7.6,3,86
+Pietra da Cunha,Salvador,24,Marketing,9.2,6,90
+Brenda da Mota,Teresina,22,Matemática,9.9,2,53
+Natália Pastor,São Luís,22,Banco de Dados,9.3,6,56
+João Lucas Aparecida,Recife,19,Python,8.1,8,56
+Dom Fonseca,Teresina,24,Banco de Dados,6.9,4,100
+Antônio Monteiro,Salvador,33,Banco de Dados,9.4,7,64
+Sra. Ana Luiza Viana,Salvador,33,Banco de Dados,8.4,4,79
+Sr. Igor Martins,Salvador,32,Banco de Dados,8.3,2,61
+Dra. Ana Cecília Caldeira,Recife,25,IA,9.8,3,91
+Natália Santos,Fortaleza,25,IA,9.1,7,61
+Sophia Caldeira,Fortaleza,32,Matemática,8.2,2,55
+Olivia Macedo,Salvador,34,Marketing,9.7,9,73
+Maria Sophia Leão,Recife,34,Marketing,9.4,6,50
+Dr. Luan Sampaio,Fortaleza,20,Marketing,8.6,2,83
+Bernardo Novais,Recife,28,Marketing,5.4,4,76
+Cecilia Vargas,São Luís,35,Matemática,9.0,2,87
+Enzo Gabriel Freitas,Salvador,21,Marketing,6.1,10,57
+Manuella Dias,São Luís,18,Python,9.2,1,81
+Lucas Gabriel Vargas,Salvador,27,Matemática,9.7,10,60
+Yan Monteiro,Salvador,27,Matemática,6.4,3,76
+Dra. Juliana Porto,Teresina,24,Banco de Dados,5.3,6,63
+Sr. Thomas Ramos,Recife,19,Matemática,5.0,6,64
+Isabelly Pinto,São Luís,34,Python,7.8,7,71
+Bryan Fonseca,São Luís,20,IA,9.4,6,93
+Dra. Maria Eduarda Siqueira,São Luís,22,Matemática,9.3,7,93
+Isadora Moreira,São Luís,35,Python,7.2,10,66
+Vinícius Cassiano,Recife,25,Banco de Dados,5.6,4,81
+Jade Duarte,Recife,21,Banco de Dados,6.4,3,74
+Dra. Ana Lívia Alves,São Luís,28,Matemática,8.6,7,80
+Luna Borges,Fortaleza,20,Matemática,10.0,3,50
+Isabelly Câmara,Recife,18,Matemática,7.6,9,80
+Sra. Fernanda Porto,Fortaleza,19,IA,5.1,1,93
+Luísa Mendes,Recife,18,Matemática,8.8,3,97
+Henry Gabriel Albuquerque,São Luís,20,Python,8.2,10,64
+Vinicius Pereira,Fortaleza,24,Matemática,5.0,6,50
+Srta. Maria Júlia Moreira,Fortaleza,26,Python,9.9,7,72
+Calebe Souza,Recife,23,Banco de Dados,7.1,4,92
+Pietro Souza,São Luís,34,Marketing,9.1,8,95
+Dra. Ana Clara Câmara,Salvador,22,Python,9.3,9,85
+Sra. Stephany Peixoto,Recife,20,IA,9.0,7,61
+Bárbara Siqueira,Fortaleza,31,IA,7.8,1,64
+Ísis da Cunha,Fortaleza,26,Matemática,8.3,4,84
+Dra. Emanuella da Rocha,São Luís,27,Matemática,8.5,8,81
+Samuel Mendes,Salvador,22,Matemática,9.9,3,57
+Joana Farias,Fortaleza,21,Banco de Dados,8.9,9,57
+Juliana Porto,Recife,23,Marketing,6.8,5,50
+Dra. Natália Câmara,Recife,26,Matemática,9.5,6,86
+Arthur Miguel Rocha,Teresina,22,Marketing,6.3,4,67
+Brenda Vasconcelos,Fortaleza,34,Matemática,5.4,10,54
+Maria Eduarda Marques,Teresina,33,Marketing,6.0,8,62
+Sr. João Costa,Recife,19,Marketing,8.7,9,62
+Rhavi da Paz,Fortaleza,33,IA,5.8,3,98
+Letícia Vieira,Salvador,23,Banco de Dados,9.9,5,79
+Heloísa Cirino,Recife,28,Banco de Dados,7.8,7,64
+Jade Melo,São Luís,29,Marketing,5.1,2,64
+Dra. Isadora da Paz,Teresina,29,Matemática,9.4,1,96
+Lucas Gabriel Borges,São Luís,28,Marketing,6.0,10,63
+Raul da Cunha,Salvador,26,Banco de Dados,7.8,6,88
+Enrico Fonseca,São Luís,30,Marketing,8.8,10,50
+Srta. Juliana Dias,São Luís,31,Python,6.6,8,78
+Ana Liz Azevedo,Fortaleza,34,Matemática,6.2,5,88
+Alexia Aparecida,Recife,24,IA,7.4,10,86
+Juliana Lima,Fortaleza,24,Banco de Dados,9.8,1,81
+Liz Macedo,Teresina,23,Python,5.9,4,54
+Maria Flor Pimenta,Teresina,24,Matemática,6.5,2,89
+Pietro Costa,Recife,29,Marketing,7.4,1,89
+Yan Cavalcanti,Teresina,21,IA,9.2,9,56
+Kamilly Macedo,São Luís,31,Python,8.1,7,68
+Arthur Miguel Ferreira,Recife,28,Banco de Dados,8.9,9,97
+Mirella Fernandes,Salvador,23,Marketing,5.6,9,85
+Luara Oliveira,Recife,35,Banco de Dados,8.8,10,91
+Ian Campos,Salvador,28,Marketing,5.5,7,62
+Sr. Pedro Miguel Cavalcante,Teresina,29,Marketing,8.9,5,98
+Sra. Vitória Vargas,Teresina,21,IA,8.6,9,84
+Dr. João Miguel Castro,Teresina,29,IA,5.7,5,97
+Pedro Miguel Campos,Teresina,26,Matemática,7.7,9,84
+Gustavo Brito,Recife,27,Banco de Dados,6.5,8,92
+Pedro Henrique da Mata,Fortaleza,25,Banco de Dados,6.9,4,64
+Aylla da Cruz,Salvador,32,Marketing,6.6,5,74
+Ravi Alves,Teresina,21,Marketing,8.6,5,87
+Aylla Vasconcelos,Fortaleza,26,Matemática,9.9,10,71
+Guilherme Rezende,São Luís,32,Banco de Dados,9.6,2,92
+Dr. João Gabriel Montenegro,Recife,22,Banco de Dados,9.9,3,66
+Raul Vargas,Teresina,24,Banco de Dados,8.0,1,93
+Ana Beatriz Nascimento,Teresina,22,Python,7.6,4,83
+Miguel Gomes,Salvador,19,Banco de Dados,5.1,2,94
+Nina Porto,Fortaleza,26,Marketing,7.1,1,58
+Ágatha Rios,Fortaleza,26,Marketing,5.0,5,63
+Dra. Ana Cecília Sampaio,Fortaleza,23,IA,9.2,1,64
+Bianca Marques,Teresina,28,Banco de Dados,9.6,10,65
+Dr. Théo Viana,Fortaleza,28,IA,9.3,8,61
+Agatha Moreira,Salvador,29,Banco de Dados,5.2,6,94
+Leandro da Rocha,Salvador,31,IA,10.0,2,57
+Josué Costela,Recife,30,Matemática,5.4,7,82
+Gabriel Ribeiro,Teresina,30,Marketing,6.5,7,74
+Davi Lucas da Conceição,Salvador,22,IA,9.7,4,59
+Gael Casa Grande,Fortaleza,18,Matemática,8.2,6,82
+Isadora Sá,Salvador,22,Matemática,7.6,10,93
+Luiza da Costa,Fortaleza,21,Matemática,9.5,9,64
+Lucas Carvalho,Teresina,32,Marketing,9.5,6,50
+Lavínia da Rosa,Teresina,19,Marketing,6.8,5,55
+Gustavo Henrique Cardoso,Salvador,23,Marketing,9.6,5,53
+Dra. Aurora Campos,São Luís,32,Matemática,7.9,9,69
+Ísis Vieira,São Luís,25,Matemática,6.3,7,62
+Alícia Vasconcelos,Teresina,22,Python,7.1,9,74
+Sr. Kevin da Conceição,Recife,33,Banco de Dados,6.4,3,69
+Ayla Sousa,Teresina,27,Python,9.4,7,65
+Enzo Monteiro,Fortaleza,22,Banco de Dados,9.2,1,91
+Alice Duarte,Teresina,29,Banco de Dados,7.6,8,94
+Aylla Cirino,São Luís,20,Marketing,6.6,5,61
+Anthony Gabriel Peixoto,Salvador,25,Python,5.1,1,79
+Juan Mendes,Fortaleza,22,Python,9.1,6,100
+Yasmin Castro,São Luís,30,IA,9.9,10,75
+Josué Correia,Salvador,28,Marketing,6.2,1,62
+Dr. Vitor Farias,Fortaleza,34,Matemática,7.0,1,65
+Ágatha Aparecida,Recife,30,IA,6.6,9,88
+Sr. José Miguel Rios,Salvador,25,Python,9.6,5,71
+Maria Luísa Rocha,Teresina,35,Banco de Dados,7.6,5,88
+Bento Montenegro,Fortaleza,26,Python,6.1,10,76
+José Miguel Santos,Teresina,19,IA,6.4,10,99
+Cauê Correia,São Luís,33,Banco de Dados,6.2,3,87
+Heitor Leão,Recife,26,IA,7.8,6,95
+Vitor Barros,Teresina,28,Marketing,9.4,10,71
+Francisco Fonseca,Teresina,25,Matemática,8.8,8,71
+Heloísa Barbosa,Teresina,32,Matemática,6.4,9,94
+Arthur Santos,Recife,33,Banco de Dados,7.2,7,86
+Davi Lucca da Costa,Recife,24,Banco de Dados,5.9,7,95
+Sr. Antônio Mendonça,São Luís,27,Banco de Dados,5.1,9,82
+Renan das Neves,Recife,33,IA,5.2,1,90
+Hellena Oliveira,Fortaleza,28,Banco de Dados,5.7,3,67
+Daniel Costela,Fortaleza,31,Marketing,6.8,9,79
+Clara Duarte,Fortaleza,27,Python,6.0,6,98
+Agatha Peixoto,Teresina,23,IA,9.2,3,94
+Josué Jesus,Salvador,18,Matemática,8.2,10,57
+Felipe Silva,Recife,33,Matemática,7.7,3,87
+Maria Laura Lopes,Recife,19,IA,8.3,9,53
+Luara Novais,Teresina,28,Matemática,9.8,3,58
+Ana Laura das Neves,Salvador,26,IA,8.2,7,100
+Rodrigo Câmara,Fortaleza,34,Python,9.2,9,100
+Heitor Leão,Fortaleza,22,Banco de Dados,6.1,1,63
+Diego Sales,Teresina,30,Banco de Dados,5.0,3,52
+Ana Beatriz Souza,Salvador,20,IA,8.6,7,61
+Maria Vitória Barros,Teresina,33,IA,8.7,6,62
+Ana Sophia Aragão,Salvador,30,Matemática,10.0,5,53
+Srta. Maria Sophia Gonçalves,Recife,24,Matemática,5.4,4,78
+Bruna Pacheco,Salvador,26,Marketing,9.8,3,75
+Bernardo da Cunha,Salvador,32,Marketing,7.1,7,84
+Luara Camargo,Fortaleza,35,Matemática,7.4,6,74
+Theodoro Teixeira,Salvador,21,Python,9.4,3,88
+Heloisa Vargas,Fortaleza,34,IA,6.5,4,56
+Brayan Castro,Salvador,32,IA,7.3,7,92
+Olivia Silveira,Fortaleza,28,Banco de Dados,6.8,5,84
+Eloá da Rocha,Fortaleza,27,Matemática,6.6,3,85
+Dra. Mirella Azevedo,Recife,20,Python,8.2,3,54
+Bernardo Mendonça,Fortaleza,32,Marketing,9.0,5,98
+Pedro Lucas Lima,Fortaleza,35,Matemática,5.6,1,97
+Enzo Camargo,Recife,35,Matemática,9.2,5,89
+Sr. João Lucas Rezende,Salvador,19,Banco de Dados,8.2,3,71
+Benício Fonseca,Salvador,33,Matemática,6.7,3,65
+Kevin Silva,Fortaleza,28,Python,5.2,9,60
+Pedro Lucas das Neves,Recife,34,Python,6.0,1,82
+Srta. Maria Alice Gomes,Teresina,25,IA,8.9,8,76
+Caleb da Conceição,Recife,18,IA,8.3,6,99
+Daniel Gomes,São Luís,21,Python,5.4,2,69
+Isadora Ramos,Salvador,24,Banco de Dados,6.0,8,84
+Ester Cavalcante,Fortaleza,23,IA,6.8,7,98
+Davi Miguel Cassiano,Recife,25,IA,5.6,1,74
+Melissa Guerra,São Luís,24,Python,8.6,4,54
+Marcelo Mendonça,Fortaleza,34,Python,9.0,3,98
+Melissa Fonseca,São Luís,29,Marketing,7.5,10,65
+Gael Henrique Campos,Recife,19,Marketing,8.9,2,59
+Maria Julia Cirino,Teresina,23,Banco de Dados,5.8,2,93
+João Pedro Cavalcante,Salvador,30,IA,5.2,10,79
+Joana Lima,Teresina,28,IA,9.9,10,76
+Liam das Neves,São Luís,27,Matemática,5.6,8,63
+Leandro Abreu,Recife,21,IA,9.7,6,77
+Ana Liz Macedo,Salvador,24,Python,9.7,7,77
+Theo Nunes,Teresina,31,Python,7.8,2,58
+Sr. Arthur Gabriel da Costa,Fortaleza,34,Python,8.0,5,76
+Carlos Eduardo Costela,Fortaleza,20,IA,8.4,7,90
+Augusto Pastor,Teresina,26,Marketing,5.5,8,74
+Otto Lima,São Luís,22,Matemática,9.9,3,96
+Maria Sophia Lopes,Fortaleza,24,Banco de Dados,6.6,4,88
+Miguel da Luz,São Luís,28,Banco de Dados,6.4,8,75
+Anna Liz Nascimento,Teresina,28,Matemática,5.8,5,65
+Ayla Araújo,São Luís,19,Python,5.9,1,76
+Mariana Alves,Fortaleza,18,Matemática,10.0,7,59
+Hellena Abreu,Recife,34,Python,8.9,6,78
+Nicolas Cavalcante,Recife,34,Banco de Dados,7.3,1,95
+Bento Araújo,Fortaleza,25,Banco de Dados,9.8,6,66
+Dom Nogueira,Fortaleza,29,Banco de Dados,8.3,5,73
+Kevin Costa,Recife,26,Matemática,7.7,4,67
+Luiz Gustavo Novais,Recife,34,IA,9.3,6,96
+Pedro Henrique Câmara,São Luís,22,Python,7.7,9,59
+Ravy Pastor,Fortaleza,21,Banco de Dados,7.5,7,54
+Isabela Garcia,Fortaleza,35,IA,7.5,3,87
+Luísa Borges,São Luís,21,Matemática,7.1,5,57
+Srta. Maria Flor da Conceição,Fortaleza,24,Marketing,5.0,4,88
+Sr. Danilo Freitas,Fortaleza,19,Matemática,7.2,3,92
+Luiz Gustavo Novais,São Luís,35,Matemática,6.7,6,56
+Ísis Aragão,Fortaleza,34,Marketing,9.5,9,83
+Davi Lucas Freitas,São Luís,20,Marketing,9.1,2,67
+Mariah Santos,Recife,27,Matemática,7.8,2,79
+José Pedro Sá,Fortaleza,19,Python,5.7,9,53
+Lucas Rodrigues,São Luís,29,Matemática,5.1,6,63
+Ian Nunes,Fortaleza,26,Marketing,7.3,10,80
+Ana Sophia Silveira,São Luís,28,Marketing,5.2,3,56
+Theodoro Pires,Recife,31,Banco de Dados,6.1,2,87
+Evelyn Peixoto,São Luís,18,Banco de Dados,7.0,1,64
+Vitor Gabriel Gonçalves,Fortaleza,27,Python,6.8,5,62
+Davi Luiz Peixoto,Recife,27,Banco de Dados,8.5,5,74
+Theodoro Albuquerque,Teresina,25,Banco de Dados,8.2,5,84
+Sra. Clara Nunes,Teresina,30,Banco de Dados,9.0,10,80
+Sr. Augusto Casa Grande,Recife,33,Banco de Dados,8.9,1,89
+Sabrina Cassiano,Recife,20,IA,5.1,6,76
+Heitor Fonseca,São Luís,32,IA,9.3,7,96
+Melissa Ribeiro,Salvador,18,Banco de Dados,7.3,8,59
+Ana Lívia Novaes,São Luís,32,Marketing,10.0,6,81
+Diego Ribeiro,São Luís,34,Python,5.9,8,61
+Mariane Costa,Recife,22,Matemática,7.6,9,58
+João Pedro Monteiro,Fortaleza,31,Python,8.7,6,74
+Dr. Paulo Santos,Teresina,34,IA,7.9,6,83
+Melina Freitas,Fortaleza,27,Banco de Dados,6.4,9,52
+Arthur Gabriel Gonçalves,Recife,26,IA,8.3,10,88
+Mariane Moura,Recife,25,Python,7.1,3,95
+Miguel da Costa,Recife,24,IA,8.3,8,98
+Gael Henrique da Costa,São Luís,21,Marketing,8.0,7,98
+Arthur Pereira,Recife,25,Python,6.5,10,61
+Alana Araújo,Fortaleza,34,Marketing,8.7,3,81
+Rafael Rezende,São Luís,26,Matemática,9.4,10,76
+Ian Lima,São Luís,32,Python,9.3,3,63
+Ísis Sampaio,São Luís,35,Python,9.9,3,80
+Benjamin Correia,São Luís,18,Python,9.9,10,59
+Henry Gabriel Fernandes,Salvador,18,IA,8.9,2,93
+Sra. Lunna Cunha,Fortaleza,22,IA,8.7,5,89
+Ana Luiza Sousa,Fortaleza,24,Banco de Dados,6.6,3,98
+Otto Silva,Fortaleza,31,Marketing,7.3,6,92
+Sra. Maria Sophia Aragão,Fortaleza,21,Banco de Dados,7.9,5,74
+Sr. Anthony Gabriel Araújo,Teresina,18,IA,6.4,5,75
+Kamilly Jesus,Recife,32,Matemática,9.5,3,95
+Arthur Miguel Nunes,Salvador,32,Marketing,5.5,10,88
+Emanuella Macedo,Fortaleza,18,Marketing,8.0,8,73
+Olívia da Mota,Recife,22,IA,8.7,3,70
+Lucca Sá,São Luís,24,Marketing,6.7,9,91
+Isabella da Cunha,Fortaleza,26,Marketing,7.6,7,93
+Sra. Hellena Sales,Salvador,34,Banco de Dados,7.7,8,54
+Oliver Souza,Salvador,29,Matemática,5.3,1,72
+Isabela da Paz,Salvador,23,IA,5.8,7,72
+José Miguel Teixeira,Salvador,35,Matemática,8.4,7,72
+Breno Cavalcanti,Teresina,20,Banco de Dados,5.2,5,59
+Davi Lucca Macedo,São Luís,22,Matemática,9.3,2,93
+João Pedro Novais,Salvador,29,Marketing,9.6,8,53
+Ravi Cardoso,Teresina,33,Marketing,9.5,4,64
+Ágatha Novais,Teresina,22,Matemática,6.4,8,100
+Rebeca Nogueira,Teresina,32,Banco de Dados,5.8,3,99
+Davi Lucca Sampaio,Recife,31,Python,7.2,10,67
+Vitor Gabriel Freitas,Teresina,26,Python,6.0,4,99
+Sr. Davi Lucca Macedo,Recife,23,Marketing,6.7,3,87
+Srta. Daniela Vieira,São Luís,19,Python,5.7,4,65
+José Nogueira,Recife,28,Matemática,7.1,4,58
+Igor Moreira,São Luís,19,Matemática,6.4,9,78
+Samuel Brito,Teresina,34,Banco de Dados,8.4,1,92
+Clarice Cardoso,Fortaleza,32,Python,9.4,9,97
+Isadora Cassiano,Salvador,23,IA,8.3,5,65
+Vicente Andrade,Fortaleza,34,Matemática,8.3,6,60
+Emilly Alves,São Luís,27,Banco de Dados,7.8,3,97
+Anthony Sales,São Luís,24,Banco de Dados,8.3,8,70
+Anthony Gabriel da Paz,Fortaleza,27,Banco de Dados,9.8,6,84
+Vitor Hugo Sousa,Recife,30,Matemática,6.2,7,68
+Sofia Rocha,Salvador,33,Python,6.1,9,78
+João Gabriel Fogaça,São Luís,24,IA,8.8,6,58
+Enzo Gabriel Azevedo,Recife,28,IA,8.7,3,60
+Srta. Ana Laura Vargas,Teresina,30,Matemática,5.7,8,78
+Nina da Luz,Recife,28,Python,7.3,7,92
+Cauã Cavalcanti,Recife,26,Python,5.9,4,58
+Rebeca Andrade,Recife,30,IA,7.6,7,89
+Marcela Freitas,Salvador,19,Python,7.9,1,88
+Gabriel Correia,Teresina,19,Matemática,7.2,10,58
+Davi Luiz Souza,Recife,24,Banco de Dados,6.6,9,63
+Pedro Vasconcelos,Fortaleza,30,Marketing,9.4,7,69
+Matheus Cardoso,Salvador,30,Banco de Dados,6.9,3,52
+Davi Miguel Guerra,Recife,34,Python,7.2,1,81
+Antônio Alves,Recife,27,Marketing,5.3,8,91
+Davi Viana,Fortaleza,24,Python,7.8,3,72
+Pietra Barbosa,Recife,23,Marketing,6.3,9,55
+Gael Henrique Pires,São Luís,24,Banco de Dados,5.5,7,93
+Dr. Davi Lucas Viana,Teresina,30,Matemática,9.1,10,58
+Dra. Eduarda Lima,São Luís,21,IA,9.4,3,97
+Bento Costa,Recife,20,IA,7.7,6,76
+Sofia Cunha,Salvador,24,Marketing,7.0,7,96
+Rebeca Siqueira,Fortaleza,23,IA,5.4,5,89
+Diego Alves,Teresina,29,Python,8.1,8,82
+Melina Fernandes,Teresina,26,Marketing,9.5,4,69
+Sr. Arthur Farias,Recife,34,Marketing,5.8,5,50
+Dr. Vicente Souza,São Luís,19,Matemática,9.3,5,91
+Miguel Borges,Salvador,27,Marketing,9.4,7,91
+Carolina Moraes,Recife,34,Marketing,9.7,8,90
+Dante Andrade,Recife,31,Marketing,9.0,10,68
+Luiz Miguel da Mata,Recife,24,IA,9.4,7,82
+Guilherme Campos,São Luís,18,IA,8.7,8,89
+Nathan Lima,Salvador,19,Banco de Dados,7.6,7,94
+Enzo Gabriel Pinto,Salvador,31,Python,5.8,5,75
+Ana Sophia Moraes,Teresina,20,Python,7.2,6,97
+Dr. Ian Abreu,Salvador,25,Marketing,7.6,10,64
+Dr. Apollo Ramos,Recife,25,Marketing,9.0,2,65
+Liz Gonçalves,Teresina,35,IA,9.0,6,85
+Sr. Vitor Hugo Ribeiro,Recife,33,Marketing,7.0,3,75
+Dr. Marcos Vinicius Moraes,Fortaleza,29,Marketing,6.1,2,61
+Sra. Ana Laura Macedo,Recife,25,IA,5.7,7,92
+José Pedro Rios,Salvador,19,Matemática,6.7,6,54
+Brayan Teixeira,São Luís,28,Python,9.6,7,88
+Srta. Luara Rios,Fortaleza,30,Python,9.9,8,50
+Diego Peixoto,Recife,28,IA,5.1,4,87
+Srta. Valentina Ferreira,São Luís,21,IA,9.0,1,72
+Sra. Yasmin Farias,São Luís,29,Marketing,6.0,1,55
+Agatha Farias,Salvador,23,Matemática,7.0,3,75
+Leonardo Pereira,Teresina,21,Banco de Dados,5.4,2,74
+José Miguel Rodrigues,São Luís,24,Python,9.9,3,75
+Amanda Ferreira,Recife,25,Matemática,6.0,5,62
+Melina Sousa,São Luís,18,Banco de Dados,5.7,5,54
+Enzo Abreu,São Luís,34,Marketing,5.3,5,52
+Ester Correia,São Luís,28,Banco de Dados,9.5,7,53
+Alexia Caldeira,Teresina,30,Matemática,6.1,7,75
+Liam Pacheco,Salvador,24,Marketing,5.6,7,77
+Srta. Manuela Correia,Teresina,30,IA,7.9,7,67
+Melissa Viana,Teresina,35,Marketing,8.5,7,84
+Ravi Lucca Campos,São Luís,25,Banco de Dados,7.4,10,78
+Maria Eduarda Brito,Salvador,23,Marketing,7.2,9,96
+Gustavo Freitas,Teresina,21,Python,5.7,5,75
+Sra. Luiza da Mata,Recife,24,Banco de Dados,7.2,8,62
+Dr. Luiz Gustavo Sá,Salvador,27,IA,9.1,4,96
+Gustavo Novais,Teresina,21,Marketing,9.8,4,74
+Benicio Siqueira,Salvador,32,Marketing,5.6,5,78
+Apollo Moreira,São Luís,27,Banco de Dados,8.5,3,73
+Mateus Cavalcanti,Fortaleza,22,Python,6.7,3,75
+Sr. Calebe Marques,Recife,31,IA,7.6,3,94
+Melina Albuquerque,Salvador,18,Marketing,9.9,1,63
+José Pedro Azevedo,Recife,25,IA,6.7,9,67
+Ísis Porto,Salvador,24,Python,8.8,2,73
+Bárbara Gonçalves,Teresina,35,Matemática,9.5,6,56
+Kevin Ribeiro,Recife,20,Matemática,5.9,8,80
+Alexia da Mata,Fortaleza,21,Python,6.9,3,79
+Sr. Diego Moraes,Recife,22,IA,6.9,4,74
+Isabela Barbosa,Teresina,26,Python,5.4,6,52
+Dante Barbosa,Teresina,33,Banco de Dados,5.0,8,98
+Valentina Albuquerque,Recife,22,Python,9.2,3,60
+Davi Lucca Abreu,Fortaleza,20,Banco de Dados,9.1,4,65
+Maria Sophia Duarte,Fortaleza,33,Matemática,8.1,6,54
+Jade Fernandes,Recife,18,IA,9.6,9,82
+Catarina Aparecida,Teresina,25,Banco de Dados,10.0,3,90
+Marcela Ramos,Recife,27,Python,9.8,6,87
+Thiago das Neves,Salvador,30,Banco de Dados,5.2,8,57
+Bento Garcia,Teresina,23,Banco de Dados,8.4,10,74
+Alícia Macedo,Fortaleza,33,IA,6.4,4,96
+Agatha Silva,Fortaleza,26,Banco de Dados,8.0,10,98
+Rafaela Vasconcelos,Fortaleza,33,IA,6.1,8,51
+Otávio Barbosa,Fortaleza,29,Matemática,7.3,9,54
+Nina da Costa,Fortaleza,34,Marketing,7.8,10,71
+Juan Cassiano,Fortaleza,30,IA,7.0,10,51
+Arthur Gabriel Melo,Teresina,27,Python,6.9,5,60
+Larissa Souza,Teresina,24,Banco de Dados,8.5,9,65
+Bianca Vargas,Salvador,21,Python,5.3,9,65
+Heloísa da Paz,Teresina,35,Python,8.0,1,60
+José Miguel Brito,Recife,27,Python,8.7,2,95
+Eduardo Guerra,Salvador,27,Banco de Dados,5.4,1,89
+Raul Fernandes,São Luís,25,Marketing,5.9,1,97
+Thomas Santos,Recife,30,Banco de Dados,7.1,1,97
+Marcos Vinicius Montenegro,Salvador,32,Matemática,9.1,6,64
+Antônio Ramos,Teresina,23,Banco de Dados,8.5,4,100
+Vitor Cassiano,Salvador,18,IA,5.1,9,52
+Antony da Rosa,Salvador,18,Python,6.8,6,55
+Liz da Luz,Recife,23,IA,5.9,4,61
+Alice da Mota,Salvador,30,Matemática,9.7,1,65
+Maria Clara Araújo,Fortaleza,34,IA,7.7,7,58
+Ana Sophia Casa Grande,Salvador,20,Matemática,6.3,8,69
+Sr. João Felipe Sales,Teresina,33,Python,5.2,8,55
+Matteo Silveira,Recife,24,Marketing,7.1,7,65
+Eloá da Luz,São Luís,24,Banco de Dados,5.2,2,95
+Vicente da Cunha,São Luís,29,Marketing,6.1,9,93
+Fernando Fernandes,Recife,33,Marketing,6.1,2,82
+Vitor Hugo Duarte,Teresina,29,IA,6.3,10,64
+Leonardo Barbosa,Teresina,18,Banco de Dados,9.7,5,51
+Lunna Vasconcelos,Fortaleza,35,Matemática,5.5,6,76
+Julia Ramos,Fortaleza,20,IA,5.1,2,76
+Dra. Luana Fernandes,Fortaleza,31,Python,9.1,10,100
+Benjamim Nunes,Recife,29,Marketing,9.3,4,69
+Ian da Luz,Recife,25,Python,6.6,4,62
+Théo Fonseca,Salvador,19,Marketing,7.0,1,76
+Enrico Jesus,Teresina,25,Python,9.3,3,85
+Lucas Gabriel Porto,Fortaleza,26,IA,8.9,3,80
+João Vieira,Salvador,24,IA,7.3,6,57
+Marcela Sousa,Fortaleza,26,Banco de Dados,9.6,4,57
+Maysa Ferreira,Recife,20,Banco de Dados,9.4,10,80
+Luiz Felipe Fogaça,Fortaleza,25,Marketing,7.4,1,67
+Srta. Bella Peixoto,Fortaleza,24,Matemática,8.9,5,68
+Kamilly Duarte,Salvador,22,Python,9.7,4,85
+Josué Pacheco,Fortaleza,25,Banco de Dados,8.3,10,61
+Ana Sophia Porto,Teresina,31,Matemática,8.0,7,91
+Bruno Sales,Teresina,35,Matemática,9.2,7,53
+Sr. Bento Rocha,Salvador,19,Matemática,9.4,2,81
+Laís Caldeira,Fortaleza,33,Banco de Dados,5.9,3,72
+Luara da Rocha,Fortaleza,31,Banco de Dados,5.9,7,53
+Yan Gonçalves,Fortaleza,24,Matemática,5.2,9,81
+Emanuella Gomes,Recife,33,Banco de Dados,6.5,8,84
+Danilo da Costa,São Luís,21,Python,8.0,1,65
+Laís Pimenta,Recife,21,Matemática,5.3,3,90
+Yan Castro,São Luís,22,Matemática,9.1,3,82
+Esther Barbosa,Teresina,21,Python,8.3,1,89
+Dante da Rocha,São Luís,27,IA,9.1,1,52
+Ana Carolina Fonseca,Recife,23,Python,8.2,7,66
+Ana Carolina Siqueira,São Luís,23,Matemática,6.5,3,64
+Lucca Nunes,São Luís,32,Banco de Dados,9.3,1,60
+Rafaela Barbosa,Fortaleza,34,Marketing,5.5,10,70
+Sr. Alexandre Pires,Salvador,18,Matemática,8.7,6,70
+Davi Brito,São Luís,30,Marketing,9.4,2,74
+Srta. Brenda Costela,Recife,32,Python,6.1,1,79
+Pietro Peixoto,Fortaleza,23,Marketing,8.8,2,93
+Vicente Sales,Teresina,35,Python,6.7,5,63
+Beatriz Cavalcante,São Luís,34,Python,6.4,9,98
+Daniela Garcia,Fortaleza,33,Banco de Dados,5.5,8,86
+Sra. Maria Luiza Castro,Salvador,25,Banco de Dados,6.6,4,96
+João Felipe Lima,Teresina,30,Banco de Dados,5.8,7,55
+Marina Jesus,São Luís,27,IA,7.6,7,83
+Miguel da Conceição,Fortaleza,21,Python,7.0,8,68
+Lívia Montenegro,São Luís,25,Python,7.5,4,85
+Lara da Rocha,Teresina,19,Matemática,8.6,9,94
+Sr. Raul Nogueira,Recife,26,Marketing,8.9,5,97
+Stephany Fonseca,Salvador,27,Python,5.8,1,87
+Yuri Silva,Teresina,34,Python,5.6,10,75
+Theo Macedo,Recife,21,Banco de Dados,6.0,2,50
+Vinícius Sales,Teresina,18,IA,5.7,6,77
+Caio Siqueira,Teresina,33,Banco de Dados,5.3,6,65
+Ana Cecília Sampaio,Recife,27,IA,5.1,8,62
+Sr. Levi da Costa,Teresina,35,Marketing,9.6,7,91
+Eduardo Pacheco,Recife,28,Matemática,8.6,8,87
+Letícia Novais,Fortaleza,20,IA,9.2,8,61
+Dra. Bruna da Mota,Recife,35,Python,6.7,8,83
+Dr. Fernando da Luz,São Luís,24,Banco de Dados,6.6,10,66
+Maria Júlia Lopes,Recife,19,Matemática,5.0,7,79
+João Felipe Cardoso,São Luís,21,Marketing,8.4,1,92
+Maria Cecília Santos,Recife,35,Python,5.7,6,74
+Benjamin Guerra,Teresina,20,Python,7.5,6,54
+Maria Monteiro,São Luís,22,Banco de Dados,7.9,10,86
+Ester da Costa,Recife,18,Marketing,5.8,10,56
+Beatriz Vieira,Salvador,23,Python,9.8,8,56
+Valentina Cirino,Salvador,18,Banco de Dados,6.0,1,91
+Julia da Costa,Teresina,29,Marketing,9.0,6,96
+Lucas Gabriel Fonseca,São Luís,22,Marketing,8.9,3,70
+Bryan Silva,Recife,35,Banco de Dados,7.1,9,77
+Sra. Aurora Sá,Fortaleza,20,Python,10.0,1,87
+Emilly Sampaio,Fortaleza,35,IA,6.1,9,51
+Alexandre Mendes,Teresina,35,Marketing,9.7,3,85
+Ana Sophia Viana,São Luís,32,Banco de Dados,7.8,7,68
+Srta. Isis Cardoso,Fortaleza,24,Marketing,9.0,9,77
+Alícia Ferreira,Salvador,32,Matemática,5.3,9,91
+Rebeca Vargas,Recife,34,Matemática,8.5,5,90
+Matteo Lima,São Luís,21,Matemática,9.8,7,57
+Benjamim Sampaio,Recife,22,Marketing,9.6,9,74
+José Mendonça,Fortaleza,25,Matemática,8.1,1,65
+Maria Rezende,São Luís,33,Banco de Dados,8.8,10,73
+João Guilherme Gomes,São Luís,24,IA,5.0,3,54
+Arthur Nascimento,Salvador,19,Marketing,8.9,1,78
+Diogo Dias,Recife,24,Banco de Dados,5.8,4,92
+Maria Helena Sousa,Salvador,29,Python,5.9,1,71
+Ana Carolina Câmara,Teresina,32,Matemática,7.3,2,100
+Dra. Alana Araújo,Fortaleza,32,Banco de Dados,9.8,3,84
+Bryan da Rosa,Recife,21,Banco de Dados,5.3,10,92
+Evelyn Mendes,Fortaleza,18,Banco de Dados,9.4,10,84
+Ana Clara Lopes,Fortaleza,25,Python,7.4,5,97
+Davi Mendonça,Teresina,22,IA,5.3,10,56
+Sr. Apollo Casa Grande,Fortaleza,28,Python,7.0,2,71
+Camila Barbosa,Teresina,28,Python,6.4,1,83
+Lucas Cardoso,Recife,27,IA,6.8,8,71
+Otávio Cavalcante,Teresina,34,Matemática,9.6,10,71
+Sr. Brayan Sousa,Recife,24,IA,8.9,10,88
+Bryan da Rosa,Teresina,22,Marketing,9.0,9,80
+Gael Barbosa,Fortaleza,23,Marketing,8.3,1,74
+Lorena Novais,Teresina,19,Matemática,7.6,2,86
+Antonella Azevedo,São Luís,22,Banco de Dados,9.8,7,74
+Sra. Natália Sales,Recife,19,IA,6.0,4,89
+João Rocha,São Luís,30,Python,6.5,10,60
+Lara Cavalcante,Salvador,25,Python,5.8,6,59
+Valentina Costela,Recife,33,Marketing,8.8,5,51
+Vitor Hugo Pinto,Salvador,30,Marketing,8.0,6,82
+André Brito,Fortaleza,23,Marketing,7.2,8,80
+Júlia Andrade,Salvador,19,Python,7.2,4,64
+Ana Cecília Pires,Recife,31,IA,5.1,7,98
+Carlos Eduardo Porto,Salvador,23,Marketing,5.4,3,66
+Vicente Santos,São Luís,22,Banco de Dados,9.2,7,72
+Leandro Campos,Teresina,22,Python,7.2,9,76
+Ester Pires,Salvador,23,Banco de Dados,9.4,6,69
+Francisco Ferreira,Fortaleza,23,Marketing,6.6,8,100
+Vitória Caldeira,Recife,27,Python,8.5,10,82
+Anthony Albuquerque,Salvador,29,Python,10.0,9,83
+Rael da Mata,São Luís,22,Python,7.0,6,69
+Srta. Ana Julia Gomes,São Luís,20,Marketing,8.2,1,98
+Bruno Macedo,Teresina,31,Banco de Dados,8.8,6,75
+Ana Liz Nascimento,São Luís,20,Python,7.7,8,66
+Gael Vasconcelos,Teresina,31,Marketing,7.5,10,82
+Luiz Fernando Viana,São Luís,19,Python,7.1,9,66
+Dr. Henry Gabriel Camargo,Teresina,33,Marketing,7.8,10,94
+Maria Fernanda Novais,Fortaleza,24,Matemática,9.6,4,73
+Gustavo Henrique Ramos,Recife,20,Matemática,8.5,4,51
+Luiz Felipe Jesus,Recife,27,Python,8.4,4,58
+Sr. Léo Caldeira,Fortaleza,35,Banco de Dados,7.4,9,92
+Maria Flor Pastor,Fortaleza,34,IA,7.6,8,85
+Dr. Valentim Ribeiro,Salvador,34,Banco de Dados,7.8,10,99
+Hadassa Dias,Fortaleza,26,Matemática,5.8,6,50
+Caio Camargo,Fortaleza,22,Banco de Dados,9.4,6,94
+Mariana Ferreira,Recife,34,Matemática,7.4,8,66
+Benjamim Vasconcelos,Salvador,19,Marketing,9.7,5,70
+Igor Fonseca,Salvador,21,Matemática,8.9,2,69
+Srta. Ana Sophia Melo,Salvador,29,Banco de Dados,7.0,4,86
+Carolina Peixoto,Fortaleza,35,Python,8.2,9,71
+Sr. João Vitor Moura,Fortaleza,34,Matemática,6.8,7,99
+Srta. Maria Julia Pereira,Salvador,18,Banco de Dados,8.0,3,59
+Vicente Nascimento,São Luís,22,IA,6.2,2,82
+Bella Sá,Teresina,23,Banco de Dados,8.4,10,65
+Vinicius Cunha,Recife,22,Marketing,7.7,4,50
+Vitória Gomes,Teresina,32,Marketing,7.2,4,82
+Oliver Rodrigues,São Luís,18,Banco de Dados,7.4,1,58
+Manuela Ramos,Fortaleza,20,IA,6.9,1,57
+Dra. Ana Júlia Alves,Recife,28,Matemática,5.7,5,64
+Maitê Cirino,São Luís,29,Matemática,5.7,6,51
+Lucas Gabriel da Luz,Recife,21,IA,7.9,9,70
+Maria Luísa Azevedo,São Luís,26,Matemática,6.2,6,68
+Miguel Novais,Salvador,24,Matemática,5.7,1,51
+Lunna Gomes,Teresina,18,Marketing,6.7,5,58
+Theodoro Abreu,Fortaleza,19,Banco de Dados,7.0,2,61
+Beatriz Sampaio,Recife,25,Matemática,6.3,1,93
+Lunna Silva,Recife,30,Banco de Dados,8.6,8,84
+Lunna Mendes,Teresina,29,Matemática,6.7,2,92
+Luana Caldeira,Teresina,23,Banco de Dados,8.4,5,70
+Noah Fernandes,Fortaleza,27,Banco de Dados,7.0,4,59
+Dr. Nathan Ramos,Recife,25,Marketing,7.6,1,57
+Zoe das Neves,Teresina,31,Python,5.9,8,73
+Júlia Rezende,Recife,33,Matemática,5.5,2,87
+Maria Cecília Araújo,Fortaleza,20,Matemática,7.4,8,100
+Nina Caldeira,São Luís,30,Marketing,9.5,4,93
+Léo Fonseca,Salvador,31,Matemática,9.8,7,76
+Srta. Maria Júlia Macedo,São Luís,22,Matemática,8.6,5,56
+Anthony Gabriel Vieira,Fortaleza,24,IA,5.5,2,64
+Sr. Dante Almeida,São Luís,29,IA,6.1,10,62
+Yan Lima,Fortaleza,33,IA,7.6,4,60
+Olívia Viana,Recife,19,Matemática,5.7,5,87
+Alana Garcia,São Luís,25,Matemática,5.3,9,80
+Srta. Lunna Pires,Teresina,19,Matemática,8.8,6,92
+José da Mota,Recife,27,Python,9.5,7,62
+Dr. Luiz Fernando Sá,Teresina,21,Python,6.6,7,82
+Srta. Isabela da Paz,Teresina,26,Matemática,9.5,7,65
+Srta. Melissa Sampaio,Salvador,31,Banco de Dados,9.2,6,64
+Srta. Ana Beatriz Ramos,Fortaleza,33,IA,8.4,5,68
+Cecília Monteiro,Recife,35,Marketing,5.6,9,72
+Hellena Novaes,Fortaleza,23,Python,5.3,9,55
+Francisco Viana,Salvador,31,Python,9.8,10,95
+João Gabriel Aparecida,Teresina,33,Matemática,8.8,6,61
+Lara Montenegro,Salvador,27,Matemática,9.3,1,80
+Enrico Fernandes,Fortaleza,27,IA,5.1,6,77
+Dra. Ana Luiza das Neves,Recife,35,Matemática,7.4,8,64
+Sofia Marques,São Luís,32,Python,6.8,9,77
+Catarina Rocha,Recife,34,IA,6.5,7,68
+Bella Rezende,Fortaleza,35,Banco de Dados,7.0,1,89
+Maria Liz Silveira,Salvador,26,Banco de Dados,9.8,3,83
+Ravi Santos,Salvador,35,IA,8.4,4,72
+Sarah Cavalcanti,Salvador,28,Matemática,7.8,10,89
+Isabel da Mota,Fortaleza,26,IA,8.7,4,91
+João Vitor Almeida,São Luís,30,Matemática,6.1,6,57
+Marina Castro,Recife,20,Banco de Dados,9.8,6,81
+Renan Leão,São Luís,31,Python,8.8,2,60
+Gabrielly Oliveira,São Luís,30,Marketing,5.5,5,67
+Liam da Luz,Fortaleza,28,Matemática,7.1,2,99
+Maria Helena da Cruz,Salvador,22,Banco de Dados,7.1,6,73
+Théo Machado,Fortaleza,33,IA,6.6,4,61
+Mariah Casa Grande,Salvador,29,Marketing,8.2,10,68
+Srta. Gabriela Monteiro,Salvador,26,IA,6.0,8,61
+Sr. Rael da Paz,Fortaleza,25,IA,9.4,1,58
+Henry Gabriel Martins,Recife,29,Python,7.1,10,88
+Dra. Cecília Cunha,Recife,24,Matemática,9.7,9,71
+Kevin Farias,Salvador,29,IA,5.6,9,50
+Kamilly da Mata,Teresina,22,Marketing,6.0,4,95
+Yago Alves,São Luís,23,Banco de Dados,9.7,5,59
+Pedro Henrique Pastor,São Luís,20,IA,5.7,10,56
+Julia Teixeira,Salvador,24,Python,6.0,7,98
+Sra. Ana Julia Barbosa,Recife,29,IA,7.6,6,52
+Mariah Oliveira,Fortaleza,23,IA,8.5,9,65
+Luigi Ferreira,Recife,27,IA,5.7,7,85
+Davi Lucca Castro,Recife,28,IA,9.6,8,60
+Dr. Theodoro Azevedo,Teresina,30,Python,9.9,5,75
+Maria Helena Nogueira,Recife,22,IA,5.4,1,55
+Lara Aragão,São Luís,27,IA,7.9,5,75
+Valentina Albuquerque,Teresina,34,Marketing,8.3,4,57
+Benício da Cunha,Teresina,24,Matemática,6.3,2,77
+Mariane Campos,Recife,35,Marketing,5.4,3,89
+Leandro Cunha,Salvador,35,Matemática,10.0,8,88
+Felipe Alves,Recife,26,Banco de Dados,5.3,10,57
+Camila Alves,São Luís,33,Matemática,7.9,5,79
+João Miguel Mendonça,Teresina,29,Marketing,8.9,1,70
+Antonella Carvalho,Teresina,20,Banco de Dados,9.6,2,67
+Clarice Correia,Fortaleza,26,Python,8.5,9,96
+Gabriela da Conceição,Salvador,27,Marketing,8.9,1,77
+Bárbara Cavalcante,Fortaleza,20,Marketing,7.4,2,90
+Srta. Marcela Caldeira,Salvador,19,Marketing,8.0,1,62
+Bianca da Cunha,Teresina,32,Python,6.3,7,84
+Maria Sophia Viana,Fortaleza,33,Banco de Dados,7.4,9,59
+Calebe Souza,São Luís,27,Marketing,5.2,4,54
+Alice Campos,Fortaleza,23,Matemática,9.9,5,59
+Yan Santos,Recife,24,Python,9.6,1,91
+Rebeca Costela,Fortaleza,28,Python,7.0,4,94
+Cecilia Viana,Teresina,26,Banco de Dados,5.4,1,70
+Sr. Davi Miguel Fonseca,Salvador,27,Banco de Dados,6.1,9,50
+Yan Farias,Salvador,21,Python,9.7,1,77
+Dr. Anthony Gabriel Gomes,Fortaleza,35,Matemática,8.8,5,71
+Sr. Vinícius Silveira,Recife,20,Matemática,9.4,4,55
+Theodoro Fonseca,Recife,19,IA,8.2,6,63
+Isabela da Rosa,Teresina,21,Marketing,8.5,7,99
+Luiz Miguel Pacheco,Fortaleza,24,IA,6.6,10,81
+Sr. Rhavi Fogaça,Recife,33,Python,8.3,1,82
+Srta. Beatriz Castro,São Luís,20,Python,9.8,4,71
+Maria Alice Rios,Recife,33,Banco de Dados,9.7,1,65
+Ravi Carvalho,Fortaleza,34,IA,9.8,5,54
+Maria Eduarda da Cunha,Salvador,27,Marketing,5.1,4,81
+Samuel Pereira,Fortaleza,18,Matemática,7.5,5,67
+Vinícius Cavalcante,São Luís,35,IA,9.6,5,86
+Vitor Hugo Rezende,Recife,23,Banco de Dados,8.7,9,66
+Melissa Borges,Recife,18,Matemática,5.0,5,66
+Vitor Gabriel Moraes,Recife,26,Marketing,8.8,7,86
+Caio Casa Grande,São Luís,35,Marketing,8.4,1,99
+Valentim Novaes,São Luís,25,Python,6.9,10,57
+Sara da Rocha,Recife,27,Matemática,5.3,4,74
+Théo da Mata,Salvador,33,Banco de Dados,7.9,5,52
+Mariana da Luz,Recife,27,Python,6.0,6,56
+Dra. Ester Pires,Fortaleza,30,Banco de Dados,7.3,8,93
+Mateus Fonseca,Recife,34,Python,7.3,9,50
+Hellena Borges,Recife,33,Matemática,6.5,2,57
+Maria Sophia Abreu,Fortaleza,31,Python,9.0,9,69
+Laís Câmara,Fortaleza,25,Python,7.3,9,76
+Olívia Carvalho,Salvador,23,Banco de Dados,6.4,5,73
+Sr. Davi Luiz Machado,Fortaleza,29,Matemática,9.3,10,75
+Dra. Maria Júlia Brito,Fortaleza,19,Banco de Dados,5.2,9,95
+Maria Helena Camargo,Fortaleza,18,Python,5.4,5,93
+Murilo Vasconcelos,São Luís,35,Matemática,8.3,7,73
+Dra. Eduarda Brito,Recife,18,Banco de Dados,6.2,3,55
+Luiz Fernando Sampaio,Fortaleza,34,Matemática,8.4,9,52
+Rhavi Alves,Salvador,33,Banco de Dados,7.3,1,92
+Sra. Maria Júlia Nogueira,Fortaleza,25,Python,5.1,5,69
+Luara Jesus,São Luís,24,Banco de Dados,7.0,6,90
+Ísis Oliveira,São Luís,30,Banco de Dados,8.3,5,82
+Sophia Almeida,São Luís,30,Matemática,9.9,9,55
+Enrico da Rocha,São Luís,29,Python,8.0,5,51
+Samuel Fonseca,São Luís,19,Marketing,8.8,1,84
+Matteo Azevedo,Fortaleza,23,IA,10.0,2,77
+Enzo Gabriel Rios,São Luís,18,Marketing,5.5,3,63
+Caleb Sá,Teresina,22,IA,7.1,9,93
+Mirella Nunes,São Luís,26,Marketing,8.6,8,86
+Olívia Aragão,São Luís,25,Python,9.9,6,75
+Maria Caldeira,Teresina,20,Matemática,7.8,8,74
+Srta. Kamilly Cavalcanti,Recife,24,Banco de Dados,7.6,7,50
+Kamilly Vieira,Fortaleza,25,Banco de Dados,5.0,10,90
+Isabela Fogaça,Salvador,23,IA,8.1,3,99
+Maria Isis Fernandes,São Luís,29,Python,8.5,7,56
+Maysa Brito,São Luís,22,Python,5.2,5,58
+Sophie Teixeira,Teresina,22,Banco de Dados,8.3,1,83
+João Felipe Correia,Teresina,18,Python,7.3,2,66
+Ana Julia Vargas,Teresina,35,Banco de Dados,8.0,4,59
+Larissa Cassiano,São Luís,32,Python,6.8,9,99
+João Felipe Araújo,Salvador,33,Python,6.7,6,100
+Dra. Allana Moreira,Recife,32,Matemática,10.0,4,90
+Vitor Gabriel Carvalho,Fortaleza,25,Matemática,7.5,4,89
+Bruno da Paz,São Luís,19,IA,6.6,1,85
+Henry Sales,Salvador,29,IA,9.5,9,78
+Gabriel Viana,Teresina,23,Matemática,9.1,4,63
+Gael Rios,Fortaleza,23,Banco de Dados,5.4,2,77
+Théo Albuquerque,Teresina,32,Banco de Dados,9.0,10,84
+Ana Pires,Salvador,31,IA,8.8,4,67
+Sra. Bruna Aparecida,Fortaleza,21,Banco de Dados,6.6,3,55
+Ana Cecília Abreu,Salvador,29,IA,7.3,4,79
+Isadora Rodrigues,Salvador,27,Matemática,9.2,1,97
+Ana Sophia Siqueira,São Luís,26,Banco de Dados,8.0,3,71
+Manuella Lopes,Recife,26,Banco de Dados,7.1,1,79
+Sra. Beatriz Sampaio,Teresina,19,IA,5.4,6,92
+Srta. Maria Alice Macedo,Salvador,29,Marketing,6.7,7,97
+Anna Liz Siqueira,Salvador,24,Marketing,6.9,9,69
+Pedro Miguel Rodrigues,São Luís,32,Banco de Dados,9.3,1,87
+Maria Abreu,Recife,28,Marketing,10.0,9,81
+Manuella Vasconcelos,Salvador,23,Python,8.7,4,59
+Breno Albuquerque,Teresina,30,Python,8.2,9,54
+Dra. Gabrielly Aragão,Teresina,33,Matemática,5.6,6,92
+Luísa Siqueira,Salvador,18,IA,8.4,2,78
+Giovanna Lima,Salvador,20,Banco de Dados,9.8,7,88
+Sr. Lucas Dias,Teresina,35,Matemática,7.8,5,58
+Antonella Aragão,São Luís,30,Python,6.9,10,71
+João Pedro Casa Grande,Fortaleza,22,Python,6.8,7,60
+Clarice Pires,Teresina,29,Banco de Dados,9.0,9,81
+Alice Lima,Teresina,22,Banco de Dados,7.9,4,70
+Lorenzo Ferreira,Recife,30,Marketing,5.7,10,98
+Dra. Laura Guerra,Recife,32,Matemática,6.7,1,90
+Lara Sousa,Salvador,25,Python,7.7,9,68
+Sr. Luiz Henrique Azevedo,São Luís,31,IA,8.3,7,59
+Melina Araújo,Teresina,35,Banco de Dados,9.9,6,54
+Letícia da Rosa,Teresina,32,Python,8.4,10,97
+Benjamin Oliveira,São Luís,32,Matemática,6.6,8,56
+Clarice Silveira,Fortaleza,19,Matemática,7.4,3,94
+Rebeca Freitas,Fortaleza,30,Marketing,8.5,10,57
+Thales Vargas,Fortaleza,27,Matemática,7.7,5,58
+Pietro Cirino,Recife,26,Banco de Dados,5.2,5,64
+Eloá Gonçalves,Fortaleza,31,Matemática,7.7,10,77
+Luara Novaes,Recife,27,Banco de Dados,5.7,9,66
+Dra. Luana Cirino,São Luís,19,IA,6.7,1,98
+Sra. Lorena da Mota,Recife,28,Banco de Dados,7.3,1,93
+Maria Laura Macedo,Salvador,26,Python,6.5,3,51
+Sra. Daniela da Mota,Fortaleza,19,IA,9.6,2,51
+Isis Andrade,Fortaleza,21,Python,5.2,3,100
+Dr. Vitor Hugo da Cunha,Teresina,18,Banco de Dados,7.9,1,58
+Alexia Sampaio,Teresina,34,IA,7.5,3,65
+Cecília Mendonça,São Luís,21,Matemática,7.4,6,92
+Pietra Cavalcanti,Teresina,26,Python,6.9,1,94
+Kaique da Costa,Salvador,28,Matemática,7.5,5,90
+Maria Clara Cavalcanti,Fortaleza,18,Marketing,8.7,8,87
+Sr. Diego Novais,Salvador,31,Matemática,6.2,6,98
+Daniel Rios,Recife,24,Python,8.2,10,70
+Marcelo Guerra,Recife,30,Python,6.5,1,83
+Raquel Mendes,Recife,21,Python,9.3,7,69
+Danilo Lima,Salvador,30,Matemática,6.2,4,80
+Bryan Porto,São Luís,25,Banco de Dados,5.8,3,87
+Dante da Paz,Salvador,26,Marketing,5.0,3,66
+Luiz Felipe Moreira,Fortaleza,33,Marketing,7.9,10,95
+Sr. Renan Mendonça,Fortaleza,24,Matemática,5.6,8,92
+Leandro Albuquerque,São Luís,27,Marketing,8.7,10,97
+Emanuelly Lopes,Teresina,20,Marketing,8.6,2,54
+Laís Costela,São Luís,19,Marketing,5.3,9,71
+Oliver Campos,Fortaleza,20,Python,9.8,7,85
+Juliana da Rocha,Fortaleza,34,IA,9.1,8,60
+Sr. Nicolas da Paz,Teresina,30,Banco de Dados,9.8,2,73
+Caio Barros,São Luís,29,Matemática,6.2,9,92
+Henry Gabriel da Rocha,Salvador,31,Banco de Dados,7.4,2,86
+Maria Eduarda Santos,São Luís,31,Banco de Dados,5.9,10,100
+Sophie Vasconcelos,Fortaleza,27,Banco de Dados,9.0,10,52
+Pedro Lucas Nunes,Recife,35,Banco de Dados,7.6,1,67
+Sra. Isis Cavalcante,Teresina,31,Marketing,6.6,7,100
+Evelyn Duarte,São Luís,22,Matemática,6.6,7,86
+Melissa Vieira,São Luís,29,Matemática,5.7,5,96
+Isaac Brito,Teresina,31,Matemática,5.8,9,92
+Francisco Martins,Fortaleza,19,Matemática,9.0,8,77
+Vinicius Câmara,Recife,29,IA,9.0,8,61
+Enrico Costela,Recife,20,Banco de Dados,7.8,4,65
+Noah Abreu,Recife,21,Python,9.3,6,67
+Cecília Duarte,Salvador,30,IA,7.5,5,56
+Breno Silva,Salvador,24,Matemática,6.2,3,74
+Joana Moraes,Fortaleza,23,Matemática,9.1,1,77
+Natália Sampaio,Teresina,23,Marketing,9.7,2,61
+Stella Rezende,Recife,32,IA,5.3,9,90
+Dr. Arthur Gabriel Pastor,Teresina,23,Python,6.3,7,60
+Dr. Gustavo Henrique Moura,Recife,18,Marketing,7.9,10,90
+João Lucas Gonçalves,Recife,20,Marketing,7.2,6,57
+Bernardo Lopes,São Luís,29,Banco de Dados,8.7,9,80
+Sra. Maria Laura da Rosa,Salvador,29,Marketing,5.5,7,87
+Sra. Ana Júlia Pereira,Salvador,18,Python,6.8,5,83
+Isaac Macedo,São Luís,34,Banco de Dados,8.5,5,94
+Brayan da Conceição,Fortaleza,32,Banco de Dados,6.9,7,66
+Srta. Isabelly Sá,São Luís,26,Matemática,5.8,1,94
+Sra. Esther da Mata,São Luís,19,Matemática,8.4,6,73
+Sofia Nunes,São Luís,29,IA,9.0,10,94
+Sr. Enzo Fernandes,Fortaleza,29,Matemática,9.7,4,92
+Dra. Mirella Caldeira,São Luís,28,Python,6.6,3,75
+Liz Vasconcelos,Salvador,20,IA,6.2,10,90
+Breno Fonseca,Teresina,29,IA,7.5,1,70
+Enrico Barbosa,São Luís,27,Banco de Dados,6.6,10,79
+Matteo da Mota,Fortaleza,35,Matemática,7.4,1,62
+Laís Pimenta,Teresina,32,Marketing,8.4,8,99
+Henry Gabriel Alves,Fortaleza,28,Matemática,5.1,2,51
+Vitor Camargo,Recife,31,Python,5.6,2,68
+Marina Teixeira,Teresina,29,Banco de Dados,6.0,10,86
+Ana Clara Pimenta,São Luís,31,Python,9.0,6,86
+Henrique Costela,Fortaleza,21,IA,9.9,9,50
+Felipe Aragão,Salvador,18,IA,6.1,9,66
+Emanuella Campos,Recife,26,Python,8.0,5,86
+João Felipe Pacheco,São Luís,28,Banco de Dados,7.0,6,94
+Maria Fogaça,Fortaleza,35,Python,9.8,5,85
+Sr. João Mendonça,Fortaleza,32,IA,8.3,7,81
+Lucas Gabriel da Mata,Fortaleza,20,Marketing,9.9,10,93
+Bruno Rezende,Recife,30,Matemática,5.1,8,84
+Thomas da Costa,Teresina,33,Matemática,7.0,2,85
+Sra. Cecilia Nunes,São Luís,30,Banco de Dados,8.4,9,93
+Francisco Alves,Teresina,28,Marketing,6.4,1,56
+Sr. Oliver Aragão,São Luís,22,Marketing,8.3,3,56
+Vicente Camargo,Fortaleza,23,Python,5.2,10,81
+Marcela Rios,Teresina,30,Matemática,6.3,3,81
+Maria Liz Guerra,Fortaleza,32,Python,7.0,1,90
+Luara Rios,Fortaleza,21,Marketing,6.8,2,73
+Vinicius da Mota,Salvador,20,IA,5.2,2,97
+Sra. Maria Clara Souza,Fortaleza,25,Matemática,6.7,3,56
+Ana Carolina Freitas,Salvador,29,Python,6.9,9,87
+Milena Pimenta,Teresina,29,Banco de Dados,6.1,2,99
+Cecília Leão,Recife,35,IA,7.0,6,97
+Samuel Carvalho,Salvador,20,IA,7.0,3,60
+André Cassiano,Recife,20,Matemática,5.9,9,92
+Vitor Alves,Fortaleza,34,Matemática,6.4,1,74
+Sarah da Mota,Fortaleza,30,IA,5.6,1,69
+Sr. Rael Moraes,São Luís,26,Marketing,9.0,3,72
+Sra. Daniela Aragão,Salvador,31,Marketing,9.1,10,93
+Dr. Cauã Moura,Teresina,30,IA,5.1,9,69
+Srta. Raquel Azevedo,Teresina,20,Banco de Dados,9.9,7,54
+Sarah Pires,Fortaleza,24,Marketing,8.6,4,70
+Eloah Sousa,Recife,22,Python,7.8,2,92
+Calebe Lopes,Recife,23,Python,5.3,10,70
+Lorenzo da Costa,Teresina,34,Python,9.2,6,69
+Ana Cecília Sales,São Luís,22,Matemática,8.6,1,81
+Nicole da Conceição,Salvador,26,Banco de Dados,6.1,1,72
+Dr. Nathan Sampaio,Teresina,32,Marketing,8.4,5,62
+Sr. Murilo Oliveira,Teresina,22,Marketing,9.9,3,71
+Dra. Stephany Pires,Teresina,27,Banco de Dados,8.8,4,69
+Maysa Caldeira,Salvador,24,Marketing,10.0,9,93
+Natália Jesus,Salvador,23,Matemática,7.0,8,67
+Maria Clara Moura,Fortaleza,23,IA,8.9,4,65
+Clarice Aparecida,Teresina,23,Matemática,5.4,5,68
+Alana Cavalcante,Recife,18,IA,7.5,7,57
+Sr. Benicio da Mata,São Luís,18,Marketing,9.5,7,92
+Hadassa Pinto,Fortaleza,25,Python,7.0,2,93
+João Gabriel Barros,Recife,19,Banco de Dados,9.1,1,63
+Luiz Fernando da Paz,Recife,35,Matemática,7.5,6,69
+Giovanna Pereira,São Luís,26,IA,7.9,10,99
+João Gabriel Rios,Salvador,26,IA,9.7,5,59
+Dr. Pedro Lucas Brito,Salvador,22,Matemática,7.3,7,96
+Danilo Sousa,Recife,25,Banco de Dados,8.4,1,93
+Srta. Ester Sampaio,Recife,35,Banco de Dados,9.2,5,88
+Hellena Siqueira,Salvador,25,Banco de Dados,5.5,9,85
+Diogo Marques,Salvador,30,Marketing,7.9,10,86
+Danilo Garcia,Recife,21,Python,6.0,2,54
+Vitória Cunha,Salvador,23,Banco de Dados,6.9,3,91
+Esther Lima,Fortaleza,27,Banco de Dados,6.7,4,52
+Maria Alice Cavalcanti,São Luís,20,Marketing,5.2,6,67
+Davi Luiz Campos,São Luís,22,Banco de Dados,6.2,5,98
+Sr. Alexandre Aragão,Fortaleza,27,Matemática,7.3,6,69
+Maria Julia Monteiro,Fortaleza,21,Matemática,6.6,7,91
+Luiz Fernando Gonçalves,Fortaleza,27,Python,7.4,7,66
+Gael Henrique Martins,Salvador,23,IA,5.9,10,83
+Felipe Rios,Recife,26,Marketing,7.6,4,66
+Apollo Rezende,São Luís,21,Banco de Dados,8.5,3,65
+Dr. Theodoro Caldeira,Recife,34,Matemática,8.3,6,99
+Eduardo Ferreira,Recife,29,Python,5.3,3,65
+Enzo Barbosa,Teresina,24,Marketing,5.5,9,75
+Benicio Ribeiro,Salvador,30,Matemática,7.5,5,66
+Sra. Heloísa Andrade,Fortaleza,35,Matemática,5.9,3,97
+Vinícius Oliveira,Teresina,32,Banco de Dados,9.9,2,52
+Benjamin Garcia,Teresina,29,Python,6.7,3,58
+Eloá Porto,Recife,18,Matemática,5.5,4,73
+Yago Montenegro,São Luís,23,Marketing,5.6,6,81
+Dra. Luna Azevedo,Teresina,28,IA,6.4,2,66
+Sabrina da Luz,São Luís,35,Python,7.1,7,96
+Agatha Caldeira,São Luís,24,Marketing,7.2,3,96
+Manuela Martins,Fortaleza,18,Python,9.2,5,90
+Antonella Pastor,Salvador,28,Banco de Dados,7.9,6,56
+Davi Lucas da Cruz,Teresina,22,Matemática,6.7,4,55

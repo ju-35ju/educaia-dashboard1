@@ -1,0 +1,15 @@
+.hero {
+    background: linear-gradient(135deg, #111827, #4f46e5);
+    padding: 60px;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.stMetric {
+    background-color: #111827;
+    padding: 15px;
+    border-radius: 15px;
+    color: white;
+}
